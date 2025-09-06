@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="assets/css/style.css">
 - Email: mawa9468@colorado.edu
 - Linkedin:<a 
   href="https://www.linkedin.com/in/maxwell-warnock/"
