@@ -3,7 +3,7 @@
 - Linkedin:<a 
   href="https://www.linkedin.com/in/maxwell-warnock/"
   target="_blank">
-  a link
+  https://www.linkedin.com/in/maxwell-warnock/
 </a> 
 
 Education:
