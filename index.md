@@ -9,4 +9,7 @@ I'm a recent graduate from CU Boulder where I completed a BA in Geography. Durin
 In my free time, I enjoy hiking, swimming, reading, playing piano, and playing board games with friends and family. 
 
 
-![Mississippi Delta](https://deltax.jpl.nasa.gov/img/delta-google-earth.jpg)
+maxwarnock.github.io/
+├── README.md
+└── img/
+    └── maxwarnock.png
