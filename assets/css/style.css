@@ -12,7 +12,7 @@
 }
 
 .page-header::after {
-  content: url("../img/max-warnock.png");
+  content: url("../../img/max-warnock.png");
   display: inline-block;
   max-height: 80px; /* adjust logo size */
   margin-left: 15px;
