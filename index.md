@@ -1,6 +1,10 @@
 # Max's Earth Data Science Portfolio
 - Email: warnock.max@gmail.com
-- Linkedin: https://www.linkedin.com/in/maxwell-warnock/
+- Linkedin:<a 
+  href="https://www.linkedin.com/in/maxwell-warnock/"
+  target="_blank">
+  a link
+</a> 
 
 Education:
 - University of Colorado Boulder, Bachelor of Arts in Geography, 2020-2025
