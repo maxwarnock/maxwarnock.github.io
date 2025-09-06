@@ -1,5 +1,5 @@
-# Max's Earth Data Science Portfolio
-- Email: warnock.max@gmail.com
+# Max Warnock's Earth Data Science Portfolio
+- Email: mawa9468@colorado.edu
 - Linkedin:<a 
   href="https://www.linkedin.com/in/maxwell-warnock/"
   target="_blank">
