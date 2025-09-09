@@ -15,3 +15,5 @@ In my free time, I enjoy hiking, swimming, reading, playing piano, and playing b
   src="/img/max-warnock.png" 
   alt="max-warnock" 
   width="20%">
+
+<embed type="text/html" src="/img/glacier.html" width="600" height="600">
