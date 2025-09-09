@@ -4,7 +4,7 @@ I recently graduated from CU Boulder with a BA in Geography. During my degree, I
 In my free time, I enjoy hiking, swimming, reading, playing piano, and playing board games with friends and family, among many other hobbies.
 
 **Education:**
-- University of Colorado Boulder, Bachelor of Arts in Geography, 2020-2025
+- University of Colorado Boulder, Bachelor of Arts in Geography, and Bachelor of Music, 2020-2025
 
 **Portfolio:**
 <embed type="text/html" src="/img/glacier.html" width="600" height="600">
