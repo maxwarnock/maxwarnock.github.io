@@ -6,6 +6,5 @@ In my free time, I enjoy hiking, swimming, reading, playing piano, and playing b
 **Education:**
 - University of Colorado Boulder, Bachelor of Arts in Geography, 2020-2025
 
-**Portfolio**
+**Portfolio:**
 <embed type="text/html" src="/img/glacier.html" width="600" height="600">
-Above is a map showing some of the glaciers in Grand Teton National Park.
