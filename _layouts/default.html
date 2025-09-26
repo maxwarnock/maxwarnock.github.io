@@ -22,29 +22,6 @@
       border-radius: 50%;
       margin-bottom: 15px;
     }
-    aside h2 {
-      margin: 0 0 10px 0;
-    }
-    aside p {
-      font-size: 14px;
-      color: #555;
-    }
-    aside nav {
-      margin-top: 20px;
-    }
-    aside nav a {
-      display: block;
-      margin: 8px 0;
-      text-decoration: none;
-      font-weight: bold;
-      color: #333;
-    }
-    aside nav a.active {
-      color: #007acc;
-    }
-    aside nav a:hover {
-      color: #005f99;
-    }
     main {
       flex: 1;
       padding: 20px;
@@ -53,25 +30,17 @@
 </head>
 <body>
   <aside>
-    <!-- Only show profile image on Home page -->
     {% if page.show_profile %}
       <img src="{{ "/img/max-warnock.png" | relative_url }}" alt="Profile picture">
     {% endif %}
 
-    <!-- Site title / name -->
     <h2>{{ site.title }}</h2>
     <p>{{ site.description }}</p>
 
-    <!-- Navigation -->
     <nav>
       <a href="{{ "/" | relative_url }}" class="{% if page.url == "/" %}active{% endif %}">Home</a>
       <a href="{{ "/portfolio" | relative_url }}" class="{% if page.url contains "portfolio" %}active{% endif %}">Portfolio</a>
     </nav>
-
-    <!-- Optional extra text -->
-    <p style="margin-top:20px; font-size:13px; color:#666;">
-      Explore my site: find projects in <strong>Portfolio</strong> or return <strong>Home</strong>.
-    </p>
   </aside>
 
   <main>
@@ -79,3 +48,4 @@
   </main>
 </body>
 </html>
+
