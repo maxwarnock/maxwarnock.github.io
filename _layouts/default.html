@@ -54,7 +54,7 @@
 <body>
   <aside>
     <!-- Only show profile image on Home page -->
-    {% if page.url == "/" %}
+    {% if page.show_profile %}
       <img src="{{ "/img/max-warnock.png" | relative_url }}" alt="Profile picture">
     {% endif %}
 
