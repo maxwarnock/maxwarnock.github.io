@@ -1,6 +1,8 @@
 ---
 layout: default
-title: About
+title: Portfolio
+show_profile: false
 ---
+
 # Portfolio
-This is my Portfolio page.
+Here’s where your projects go.
