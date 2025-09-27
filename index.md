@@ -11,5 +11,4 @@ In my free time, I enjoy hiking, swimming, reading, playing piano, and playing b
 **Education:**
 - University of Colorado Boulder, Bachelor of Arts in Geography, and Bachelor of Music, 2020-2025
 
-**[Portfolio:](/portfolio.md)**
-<embed type="text/html" src="/img/glacier.html" width="600" height="600">
+**[Click here to view my Earth Data Science Portfolio!](/portfolio.md)**
