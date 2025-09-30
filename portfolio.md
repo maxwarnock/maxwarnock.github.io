@@ -7,7 +7,7 @@ show_profile: false
 # Portfolio
 ---
 9/24/25 - Climate Change plot
-<embed type="text/html" src="/img/boulder_temp_plot.html" width="700" height="300">
+<embed type="text/html" src="/img/boulder_temp_plot.html" width="720" height="320">
 
 ---
 9/10/25 - Creating html maps
