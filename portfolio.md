@@ -14,6 +14,8 @@ show_profile: false
 <embed type="text/html" src="/img/aspen_temp_interactive.html" width="720" height="320"> 
 This graph shows an increase in average annual temperature in Aspen, CO of 0.0061 °C per year since 1980. Over 45 years, this is an increase of 0.2745 °C. 
 
+[View my full workflow](./img/Aspen_Climate_data.html){:target="_blank"}
+
 Considerations for using Linear Ordinary Least Squares (OLS) Regression
 
 - Random error: With OLS, we are assuming that all temperature variation except for climate change is random. However, El Nino and La Nina can be predicted to a certain extent, and so this is a certain amount of variation that is not random that OLS is not considering. However, there is still a lot of weather variability that is random.
