@@ -14,7 +14,7 @@ show_profile: false
 <embed type="text/html" src="/img/aspen_temp_interactive.html" width="720" height="320"> 
 This graph shows an increase in average annual temperature in Aspen, CO of 0.0061 °C per year since 1980. Over 45 years, this is an increase of 0.2745 °C. 
 
-[View my full workflow](./img/Aspen_Climate_data.ipynb){:target="_blank"}
+[View my full workflow](./img/Aspen_Climate_data.html){:target="_blank"}
 
 Considerations for using Linear Ordinary Least Squares (OLS) Regression
 
