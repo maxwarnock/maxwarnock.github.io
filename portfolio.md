@@ -6,10 +6,10 @@ show_profile: false
 
 # Portfolio
 ---
-9/24/25 - Boulder Climate Change plot
-<embed type="text/html" src="/img/boulder_temp_interactive.html" width="720" height="320">
 **Annual Average Temperatures in Boulder Increasing by 2.172 °C Over Past 120 Years**   
-This graph shows an increase in average temperature in Boulder over time, meaning that the climate is changing. The slope of the trendline is 0.0181 °C per year. Over 120 years, this is a 2.172 °C increase which is very significant and concerning.   
+9/30/25
+<embed type="text/html" src="/img/boulder_temp_interactive.html" width="720" height="320"> 
+This graph shows an increase in average temperature in Boulder over the past 120 years, meaning that the climate is changing. The slope of the trendline is 0.0181 °C per year. Over 120 years, this is a 2.172 °C increase which is very significant and concerning.   
 
 Considerations for using Linear Ordinary Least Squares (OLS) Regression
 
@@ -19,7 +19,8 @@ Considerations for using Linear Ordinary Least Squares (OLS) Regression
 - Stationarity: The amount of variability (randomness) over time appears roughly the same across the timespan. There are some areas with more or less variability, but across the entire 120 years, there is no meaningful shift in randomness, so this is a good reason to use OLS.
 
 ---
-9/10/25 - Creating html maps
+**Creating html maps using OpenStreetMaps**   
+9/10/25
 <embed type="text/html" src="/img/glacier.html" width="600" height="485">
 A few years ago, I worked on a project using satellite imagery to measure the size of glaciers in Grand Teton National Park over time. My findings showed that the glaciers were rapidly losing size over just a 20 year timeframe. This map shows the general location of the some of the glaciers I studied. 
 
