@@ -6,10 +6,13 @@ show_profile: false
 
 # Portfolio
 ---
-**Annual Average Temperatures in Boulder Increasing by 2.172 °C Over Past 120 Years**   
+
+
+
+**Annual Temperatures in Aspen Increasing by 0.0061 °C per year on Average Since 1980**   
 9/30/25
-<embed type="text/html" src="/img/boulder_temp_interactive.html" width="720" height="320"> 
-This graph shows an increase in average temperature in Boulder over the past 120 years, meaning that the climate is changing. The slope of the trendline is 0.0181 °C per year. Over 120 years, this is a 2.172 °C increase which is very significant and concerning.   
+<embed type="text/html" src="/img/aspen_temp_interactive.html" width="720" height="320"> 
+This graph shows an increase in average annual temperature in Aspen, CO of 0.0061 °C per year since 1980. Over 45 years, this is an increase of 0.2745 °C. 
 
 Considerations for using Linear Ordinary Least Squares (OLS) Regression
 
