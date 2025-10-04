@@ -17,18 +17,9 @@ To research this, I searched for weather station data in Aspen available from th
 The raw data has daily average temperatures, and I wanted annual average temperature values to understand longer term changes in climate. In Python, I calculated the annual mean values and resampled to one temperature value per year. Next, I used the sklearn library to fit a trendline to the data using the Linear Ordinary Least Squares (OLS) Regression method.
 
 <embed type="text/html" src="/img/aspen_temp_interactive.html" width="720" height="320"> 
-This graph shows an increase in average annual temperature in Aspen, CO of 0.0061 °C per year since 1980. Over 45 years, this is a total increase of 0.2745 °C. 
-
-
+This graph shows an increase in average annual temperature in Aspen, CO of 0.0061 °C per year since 1980. Over 45 years, this is a total increase of 0.2745 °C.   
 
 [View my Python workflow](./img/Aspen_Climate_data.html){:target="_blank"}
-
-Considerations for using Linear Ordinary Least Squares (OLS) Regression
-
-- Random error: With OLS, we are assuming that all temperature variation except for climate change is random. El Nino and La Nina can be predicted to a certain extent, and so this could lead to certain amount of variation that is not random. However, random weather events are likely still the main cause of the variability in the data.
-- Normally Distributed Error: This data is a good application in terms of normally distributed error because we are looking at average annual temperature, and not something finer scale like daily precipitation. 
-- Linearity: By looking at the data of temperature gradually increasing over time, it appears you could draw a straight line through it. It does not appear curved or exponential, so in this case, this looks like a good reason to use OLS. 
-- Stationarity: With the exception of a few outliers, the amount of variability (randomness) over time appears roughly the same across the timespan. There are some areas with more or less variability, but across the entire 45 years, there is no meaningful shift in randomness, so this is a good reason to use OLS.
 
 ---
 **Creating html maps using OpenStreetMaps**   
