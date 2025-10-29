@@ -7,7 +7,7 @@ show_profile: false
 # Portfolio
 <hr style="height: 4px; background-color: black; border: none; margin: 20px 0;">
 
-## Study of Annual Migration Patterns of the Baltimore Oriole (Icterus galbula)
+## Study of Annual Migration Patterns of the Baltimore Oriole (Icterus galbula) {migration}
 10/29/25
 
 **Introduction**   
@@ -51,7 +51,7 @@ These results align closely with maps and information provided by the [Cornell L
 
 <hr style="height: 4px; background-color: black; border: none; margin: 20px 0;">
 
-## Annual Temperatures in Aspen Increasing by 0.0061 °C per year on Average Since 1980 
+## Annual Temperatures in Aspen Increasing by 0.0061 °C per year on Average Since 1980 {climate}
 10/1/25
 
 **Introduction**   
@@ -69,7 +69,7 @@ This graph shows an increase in average annual temperature in Aspen, CO of 0.006
 
 <hr style="height: 4px; background-color: black; border: none; margin: 20px 0;">
 
-## Creating html maps using OpenStreetMaps  
+## Creating html maps using OpenStreetMaps {htmlmaps}
 9/10/25
 <embed type="text/html" src="/img/glacier.html" width="600" height="485">
 A few years ago, I worked on a project using satellite imagery to measure the size of glaciers in Grand Teton National Park over time. My findings showed that the glaciers were rapidly losing size over just a 20 year timeframe. This map shows the general location of the some of the glaciers I studied. 
