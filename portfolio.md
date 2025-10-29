@@ -6,6 +6,7 @@ show_profile: false
 
 # Portfolio
 <hr style="border: 2px solid black; margin: 20px 0;">
+
 ## Study of Annual Migration Patterns of the Baltimore Oriole (Icterus galbula)
 10/29/25
 
