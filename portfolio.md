@@ -19,9 +19,6 @@ show_profile: false
 </p>
 
 
-
-
-
 **Migration Mapping**   
 Knowing the month-by-month range of the Balitmore Oriole's migration path can be a useful tool for conservation efforts. Since the Oriole is a migratory species, it relies on a wide range of habitats across Central and North America. Knowing when and where this species will be can aid conservation efforts. While this analysis focuses on the 2024 migration range, mapping the range over multiple years or decades can be an important way of assessing the health of the Oriole population.
 
@@ -40,7 +37,7 @@ The goal of this analysis is not only to plot geographically, but to also repres
 
 [Click here to view my full analysis and Python code](./img/baltimore-oriole-migration-notebook)
   
-<embed type="text/html" src="/img/baltimore-oriole-migration.html" width="800" height="700">
+<embed type="text/html" src="/img/baltimore-oriole-migration.html" width="800" height="650">
 
 **Results and Analysis**   
 According to the interative plot above, the Baltimore Oriole spends the coldest winter months (December/January) in warmer climates with ecoregions with dense observations in South and Central America. Surprisingly, there are also less dense ecoregions with Orioles along the East Coast of North America, extending into Canada during the coldest months. This suggests that while Orioles may prefer the warmer climates of the South, they can still tolorate the colder winter weather along the East Coast. There are also observations of Orioles on the Carribean islands in most months except for summer, suggesting that Orioles are very capable of migrating across fairly large water bodies. 
