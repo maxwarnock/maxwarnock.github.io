@@ -12,8 +12,12 @@ show_profile: false
 **Introduction**   
 
 <p align="justify">
-  <img src="img/baltimore-oriole-image.jpg" alt="Baltimore Oriole" align="left" width="150" style="margin-right: 10px; margin-bottom: 10px;">
-  The Baltimore Oriole (Icterus galbula) is a colorful migratory bird found throughout the Eastern/Central part of North and Central America. The male has bright orange and black plummage which makes it easy to spot, while the female plummage is only slightly less brilliant. Like many species, the Baltimore Oriole spends the winters in the warmer climates of Central American, and migrates north during the summer ([Cornell Lab of Ornithology](https://www.allaboutbirds.org/guide/Baltimore_Oriole/overview)). According to the [Audubon Society](https://www.audubon.org/field-guide/bird/baltimore-oriole), Orioles prefer open woods, riverside groves, elms, and shade trees, and generally prefer to nest on the edges of woodlands. The Audubon Society also notes that this species still has a healthy population, but "surveys show a decline in recent decades." In particular, Dutch elm disease during the mid 20th century may have contributed to a loss of habitat for Orioles. Climate change is another factor threatening Orioles. The Audubon Society lists fire weather, spring heat waves, and urbanization as leading climate change related factors that are negatively impacting Oriole populations.
+  <img src="img/baltimore-oriole-image.jpg" alt="Baltimore Oriole" align="left" width="150" style="margin-right: 10px; margin-bottom: 3px;">
+  The Baltimore Oriole (Icterus galbula) is a colorful migratory bird found throughout the Eastern/Central part of North and Central America. The male has bright orange and black plummage which makes it easy to spot, while the female plummage is only slightly less brilliant. Like many species, the Baltimore Oriole spends the winters in the warmer climates of Central American, and migrates north during the summer (<a href="https://www.allaboutbirds.org/guide/Baltimore_Oriole/overview"
+    target="_blank"
+    rel="noopener noreferrer">
+    Cornell Lab of Ornithology
+</a>). According to the <a href="https://www.audubon.org/field-guide/bird/baltimore-oriole">Audubon Society</a>, Orioles prefer open woods, riverside groves, elms, and shade trees, and generally prefer to nest on the edges of woodlands. The Audubon Society also notes that this species still has a healthy population, but "surveys show a decline in recent decades." In particular, Dutch elm disease during the mid 20th century may have contributed to a loss of habitat for Orioles. Climate change is another factor threatening Orioles. The Audubon Society lists fire weather, spring heat waves, and urbanization as leading climate change related factors that are negatively impacting Oriole populations.
 </p>
 
 
@@ -66,7 +70,7 @@ This graph shows an increase in average annual temperature in Aspen, CO of 0.006
 [View my Python workflow](./img/Aspen_Climate_data.html){:target="_blank"}
 
 ***
-## Creating html maps using OpenStreetMaps**   
+## Creating html maps using OpenStreetMaps  
 9/10/25
 <embed type="text/html" src="/img/glacier.html" width="600" height="485">
 A few years ago, I worked on a project using satellite imagery to measure the size of glaciers in Grand Teton National Park over time. My findings showed that the glaciers were rapidly losing size over just a 20 year timeframe. This map shows the general location of the some of the glaciers I studied. 
