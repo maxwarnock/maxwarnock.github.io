@@ -1,4 +1,13 @@
 <nav>
   <a href="{{ "/" | relative_url }}" class="{% if page.url == "/" %}active{% endif %}">Home</a>
-  <a href="{{ "/portfolio" | relative_url }}" class="{% if page.url contains "portfolio" %}active{% endif %}">Portfolio</a>
+
+  <a href="{{ "/portfolio" | relative_url }}" class="{% if page.url contains 'portfolio' %}active{% endif %}">Portfolio</a>
+
+  {% if page.url contains 'portfolio' %}
+    <div class="sub-links">
+      <a href="{{ '/portfolio#migration' | relative_url }}">Oriole Migration</a>
+      <a href="{{ '/portfolio#climate' | relative_url }}">Aspen Climate Analysis</a>
+      <a href="{{ '/portfolio#htmlmap' | relative_url }}">HTML Mapping</a>
+    </div>
+  {% endif %}
 </nav>
