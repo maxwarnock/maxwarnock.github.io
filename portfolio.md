@@ -44,7 +44,7 @@ During the summer months, Orioles are almost solely observed in the U.S. and Can
 These results align closely with maps and information provided by the [Cornell Lab of Ornithology](https://www.allaboutbirds.org/guide/Baltimore_Oriole/overview) and the [Audubon Society](https://www.audubon.org/field-guide/bird/baltimore-oriole). 
 
 
----
+***
 ## Annual Temperatures in Aspen Increasing by 0.0061 °C per year on Average Since 1980 
 10/1/25
 
@@ -61,7 +61,7 @@ This graph shows an increase in average annual temperature in Aspen, CO of 0.006
 
 [View my Python workflow](./img/Aspen_Climate_data.html){:target="_blank"}
 
----
+***
 ## Creating html maps using OpenStreetMaps**   
 9/10/25
 <embed type="text/html" src="/img/glacier.html" width="600" height="485">
