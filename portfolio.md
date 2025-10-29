@@ -36,7 +36,7 @@ After downloading the data, there are several steps necessary to plot the data g
 **Normalization**   
 The goal of this analysis is not only to plot geographically, but to also represent density of bird observations using a color gradient. The goal of the normalization step is to remove systematic differences such as some months have more sampling because more birdwatchers are outside, and some regions being more heavily surveyed because more birdwatchers live there.
 
-<a href="./img/baltimore-oriole-migration-notebook" target="_blank" rel="noopener noreferrer">Click here to view my full analysis and Python code</a>
+<a href="./img/baltimore-oriole-migration-notebook" target="_blank" rel="noopener noreferrer" style="font-weight: bold;">Click here to view my full analysis and Python code</a>
 
   
 <embed type="text/html" src="/img/baltimore-oriole-migration.html" width="800" height="650">
