@@ -4,7 +4,7 @@ title: Earth Data Analytics Portfolio
 show_profile: false
 ---
 
-# Portfolio
+# Earth Data Analytics Portfolio
 <hr style="height: 4px; background-color: black; border: none; margin: 20px 0;">
 
 ## Study of Annual Migration Patterns of the Baltimore Oriole (Icterus galbula) {#migration}
