@@ -69,14 +69,14 @@
 
     <nav>
       <a href="{{ '/' | relative_url }}" class="{% if page.url == '/' %}active{% endif %}">Home</a>
-      <a href="{{ '/EDA_portfolio' | relative_url }}" class="{% if page.url contains 'EDA_portfolio' %}active{% endif %}">Earth Data Analytics Portfolio</a>
+      <a href="{{ '/portfolio' | relative_url }}" class="{% if page.url contains 'portfolio' %}active{% endif %}">Earth Data Analytics Portfolio</a>
       <a href="{{ '/GIS_portfolio' | relative_url }}" class="{% if page.url contains 'GIS_portfolio' %}active{% endif %}">GIS Portfolio</a>
       
-      {% if page.url contains 'EDA_portfolio' %}
+      {% if page.url contains 'portfolio' %}
         <div class="sub-links" style="margin-left: 15px; font-size: 0.9em;">
-          <a href="{{ '/EDA_portfolio#migration' | relative_url }}">Oriole Migration</a>
-          <a href="{{ '/EDA_portfolio#climate' | relative_url }}">Aspen Climate Analysis</a>
-          <a href="{{ '/EDA_portfolio#htmlmaps' | relative_url }}">HTML Mapping</a>
+          <a href="{{ '/portfolio#migration' | relative_url }}">Oriole Migration</a>
+          <a href="{{ '/portfolio#climate' | relative_url }}">Aspen Climate Analysis</a>
+          <a href="{{ '/portfolio#htmlmaps' | relative_url }}">HTML Mapping</a>
         </div>
       {% endif %}
     </nav>
