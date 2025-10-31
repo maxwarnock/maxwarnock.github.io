@@ -4,5 +4,5 @@ title: GIS Portfolio
 show_profile: false
 ---
 
-# Portfolio
+# GIS Portfolio
 <hr style="height: 4px; background-color: black; border: none; margin: 20px 0;">
