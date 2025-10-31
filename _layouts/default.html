@@ -70,7 +70,7 @@
     <nav>
       <a href="{{ '/' | relative_url }}" class="{% if page.url == '/' %}active{% endif %}">Home</a>
       <a href="{{ '/portfolio' | relative_url }}" class="{% if page.url contains 'portfolio' %}active{% endif %}">Earth Data Analytics Portfolio</a>
-      <a href="{{ '/GIS_portfolio' | relative_url }}" class="{% if page.url contains 'GIS_portfolio' %}active{% endif %}">GIS Portfolio</a>
+      
       
       {% if page.url contains 'portfolio' %}
         <div class="sub-links" style="margin-left: 15px; font-size: 0.9em;">
@@ -79,6 +79,8 @@
           <a href="{{ '/portfolio#htmlmaps' | relative_url }}">HTML Mapping</a>
         </div>
       {% endif %}
+
+      <a href="{{ '/GIS_portfolio' | relative_url }}" class="{% if page.url contains 'GIS_portfolio' %}active{% endif %}">GIS Portfolio</a>
     </nav>
 
   </aside>
