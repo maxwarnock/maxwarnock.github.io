@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Portfolio
+title: Earth Data Analytics Portfolio
 show_profile: false
 ---
 
