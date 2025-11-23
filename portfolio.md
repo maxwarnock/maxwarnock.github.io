@@ -7,7 +7,7 @@ show_profile: false
 # Earth Data Analytics Portfolio
 <hr style="height: 4px; background-color: black; border: none; margin: 20px 0;">
 
-## Analysis of Vegetation Health in Rocky Mountain National Park Using NDVI Data from 2000 to 2024 
+## Analysis of Vegetation Health in Rocky Mountain National Park Using NDVI Data from 2000 to 2024 {#ndvi}
 11/22/25
 
 <a href="./img/ndvi_project.html" target="_blank" rel="noopener noreferrer" style="font-weight: bold;">Click here to view my full analysis and Python code</a>
