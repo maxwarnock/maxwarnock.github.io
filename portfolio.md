@@ -39,7 +39,7 @@ I will be using Moderate Resolution Imaging Spectroradiometer (MODIS) NDVI data 
 <img src="img/NDVI_compare_2000vs2024.png" alt="NDVI_Compare" width="800">   
 These side-by-side maps compare NDVI in 2000 vs. 2024. Darker greens represent healthier vegetation, whereas whites/pinks represent less healthy vegetation. 
 
-<embed type="text/html" src="/img/ndvi_changes.html" width="720" height="320"> 
+<embed type="text/html" src="/img/ndvi_changes.html" width="720"> 
 This map shows change in NDVI values for the two date slices. I subtracted the earlier date slice (2000-2012) from the more recent date slice (2012-2024). The result shows large areas of pink which indicates a decrease in vegetation health over the time period. There are also some green areas which indicate an increase in vegetation health over the time period. Overall, it's not surprising to see a decrease in NDVI values due to the impacts from pine beetles and wildfires, as described above.
 
 <img src="img/NDVI_trend.png" alt="NDVI_trend" width="800"> 
