@@ -1,3 +1,8 @@
+---
+layout: default
+title: Migration Download Steps
+---
+
 ### GBIF download and data processing notebooks for the American Redstart migration analysis
 
 [Data download and processing for 2004](./img/download-2004.html)
