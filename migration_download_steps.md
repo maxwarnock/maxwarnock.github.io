@@ -9,3 +9,7 @@
 [Data download and processing for 2019](./img/download-2019.html)
 
 [Data download and processing for 2024](./img/download-2024.html)
+
+Once data is downloaded, you can proceed to the final step below:
+
+[Creating multi-year migration map](./img/final-project.html)
