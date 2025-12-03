@@ -10,7 +10,7 @@ show_profile: false
 ## Analysis of the Migration Range of the American Redstart (Setophaga ruticilla) from 2004 to 2024
 12/3/25
 
-<a href="./migration_download_steps.md" target="_blank" rel="noopener noreferrer" style="font-weight: bold;">Link to my complete analysis and Python code</a>
+[Link to my complete analysis and Python code](./migration_download_steps.md)
 
 <p align="justify">
   <img src="https://www.allaboutbirds.org/guide/assets/og/75237001-1200px.jpg" alt="Redstart" align="right" width="350" style="margin-left: 10px; margin-bottom: 3px;">
