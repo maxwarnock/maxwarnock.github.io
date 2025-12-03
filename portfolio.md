@@ -7,6 +7,22 @@ show_profile: false
 # Earth Data Analytics Portfolio
 <hr style="height: 4px; background-color: black; border: none; margin: 20px 0;">
 
+
+
+<div style="
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+">
+  <iframe src="redstart-migration-2004.html" style="width: 100%; height: 300px; border:none;"></iframe>
+  <iframe src="redstart-migration-2009.html" style="width: 100%; height: 300px; border:none;"></iframe>
+  <iframe src="redstart-migration-2014.html" style="width: 100%; height: 300px; border:none;"></iframe>
+  <iframe src="redstart-migration-2019.html" style="width: 100%; height: 300px; border:none;"></iframe>
+</div>
+
+
+<hr style="height: 4px; background-color: black; border: none; margin: 20px 0;">
+
 ## Analysis of Vegetation Health in Rocky Mountain National Park Using NDVI Data from 2000 to 2024 {#ndvi}
 11/22/25
 
