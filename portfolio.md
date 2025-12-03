@@ -21,6 +21,8 @@ show_profile: false
 </div>
 
 
+<embed type="text/html" src="/img/redstart-migration-years.html" width="800" height="650">
+
 <hr style="height: 4px; background-color: black; border: none; margin: 20px 0;">
 
 ## Analysis of Vegetation Health in Rocky Mountain National Park Using NDVI Data from 2000 to 2024 {#ndvi}
