@@ -28,6 +28,8 @@ To map the Redstart's annual migration, I will be using occurrence data from the
 **Ecoregion Data**
 I will be plotting occurrence (sightings of Redstarts) data within ecoregions to visualize the Redstart migration on a map. For the ecoregion data, I will be using data published in 2017 by [RESOLVE](https://www.resolve.ngo/) and [OneEarth](https://www.oneearth.org/announcing-the-release-of-ecoregion-snapshots/).
 
+[Steps for data download and processing can be found here](./migration_download_steps.md)
+
 **Results and Analysis**
 
 <div style="
