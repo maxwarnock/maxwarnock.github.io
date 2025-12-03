@@ -10,7 +10,7 @@ show_profile: false
 ## Analysis of the Migration Range of the American Redstart (Setophaga ruticilla) from 2004 to 2024
 12/3/25
 
-<a href="./img/final-project.html" target="_blank" rel="noopener noreferrer" style="font-weight: bold;">Link to my complete analysis and Python code</a>
+<a href="./migration_download_steps.md" target="_blank" rel="noopener noreferrer" style="font-weight: bold;">Link to my complete analysis and Python code</a>
 
 <p align="justify">
   <img src="https://www.allaboutbirds.org/guide/assets/og/75237001-1200px.jpg" alt="Redstart" align="right" width="350" style="margin-left: 10px; margin-bottom: 3px;">
@@ -35,8 +35,6 @@ To map the Redstart's annual migration, I will be using occurrence data from the
 
 **Ecoregion Data** 
 I will be plotting occurrence (sightings of Redstarts) data within ecoregions to visualize the Redstart migration on a map. For the ecoregion data, I will be using data published in 2017 by [RESOLVE](https://www.resolve.ngo/) and [OneEarth](https://www.oneearth.org/announcing-the-release-of-ecoregion-snapshots/).
-
-[Steps for data download and processing can be found here](./migration_download_steps.md)
 
 **Results and Analysis**
 
