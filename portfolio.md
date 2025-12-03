@@ -22,18 +22,18 @@ show_profile: false
     rel="noopener noreferrer">Cary Institute of Ecosystem Studies</a>).
 </p>
 
-**Migration Patterns and Climate Change** 
+**Migration Patterns and Climate Change**    
 American Redstarts are being affected by climate change in some parts of their migration range. According to Bryant Dossman, a conservation and migration ecology scientist, Redstarts are particularly affected by increasingly dry conditions in the tropics of South America and Jamaica where many Redstarts spend the winter [(Heisman, 2024)](https://www.allaboutbirds.org/news/american-redstarts-can-speed-up-their-migration-but-theres-a-cost/). There is strong evidence that increasingly dry conditions in the tropics are linked to climate change and deforestation [(Y. Malhi)](https://royalsocietypublishing.org/rstb/article-abstract/359/1443/331/20382/Tropical-forests-and-the-global-carbon-cycle?redirectedFrom=fulltext). According to Dossman, these conditions are making it harder for the Redstart to find enough food and insects to put on enough weight for the migration journey north. Dossman observes that this causes the Redstart to often leave later in the spring. Dossman used GPS tracking devices on the birds to study their migration speed. He found that bird that left late migrated faster to make up for lost time. However, he notes that migrating faster increases stress and energy expenditure of the birds, making them more likely to die on the journey. Dossman found that birds that left late had a 6% increased risk of death on their migration journey as opposed to birds that left on time [(Heisman, 2024)](https://www.allaboutbirds.org/news/american-redstarts-can-speed-up-their-migration-but-theres-a-cost/). These factors are impacting the Redstarts range. For example, according to the Cary Institute of Ecosystem Studies, the Redstart is migrating farther south into South America during the winters in search of food, and not as far north into Canada during the summers because of the delay migrating north. The overall effect is that the Redstart's range is shifting southwards [(Cary Institute of Ecosystem Studies)](https://www.caryinstitute.org/news-insights/feature/climate-change-pushing-american-redstarts-breeding-range-southward).
 
 
-**Migration Mapping** 
+**Migration Mapping**    
 Because of the impacts described above, knowing the month-by-month range of the Redstart's migration path can be a useful tool for conservation efforts. In addition to the month-by-month range, assessing the range over years and decades can confirm important information about how climate change is impacting the Redstart's range. 
 
 
-**Migration Data from GBIF** 
+**Migration Data from GBIF**    
 To map the Redstart's annual migration, I will be using occurrence data from the [Global Biodiversity Information Facility (GBIF)](https://www.gbif.org/). Occurrence data is largely collected using [eBird](https://ebird.org/home) and [iNaturalist](https://www.inaturalist.org/), as well as several other reputable citizen science data sources [(GBIF Data Processing)](https://www.gbif.org/data-processing).
 
-**Ecoregion Data** 
+**Ecoregion Data**    
 I will be plotting occurrence (sightings of Redstarts) data within ecoregions to visualize the Redstart migration on a map. For the ecoregion data, I will be using data published in 2017 by [RESOLVE](https://www.resolve.ngo/) and [OneEarth](https://www.oneearth.org/announcing-the-release-of-ecoregion-snapshots/).
 
 **Results and Analysis**
@@ -55,10 +55,10 @@ I will be plotting occurrence (sightings of Redstarts) data within ecoregions to
 
 **Figure 2:** Map showing the entire range of the American Redstart for the years of 2004, 2009, 2014, 2019, and 2024. Density of observations (for the entire year) is represented by the blue color scale.
 
-**Analysis of Results** 
+**Analysis of Results**    
 The map above shows the entire migration range of the Redstart for the years of 2004, 2009, 2014, 2019, and 2024. In 2004, notice the northern extent of the Redstart in Northwestern Canada. This ecoregion disappears in later years, meaning the Redstart has not been observed in that northern ecoregion in more than a decade according to the GBIF data. As you scroll through the years, also notice the range extent in South America. In 2004, the range is fairly limited in South America. However, the Redstart's range in South America has gradually been increasing southward. The density of Redstart observations in South America has also increase. Notice that the density of observations in 2004 is relatively low. However, in more recent years, the density is much higher. 
 
-**Conclusion** 
+**Conclusion**    
 According to the [Cornell Lab of Ornithology](https://www.allaboutbirds.org/guide/American_Redstart/overview) and the [Cary Institute of Ecosystem Studies](https://www.caryinstitute.org/news-insights/feature/climate-change-pushing-american-redstarts-breeding-range-southward), the American Redstart's migration range has been forced southwards in recent decades due to climate change impacts on their habitat, particularly in Central and South America. This analysis focused on two decades of data of GBIF observations of the Redstart's range in order to observe trends in the extent of the Redstart's range. The resulting map shows an increase in the extent of the Redstart's southern range during the winter months, indicating that the bird is venturing farther into South America in search of food. Additionally, the Northern range reduced slightly. This is consistent with research from [Georgetown Univeristy](https://www.allaboutbirds.org/news/american-redstarts-can-speed-up-their-migration-but-theres-a-cost/) and the [Cary Institute for Ecosystem Studies](https://www.caryinstitute.org/news-insights/feature/climate-change-pushing-american-redstarts-breeding-range-southward). These results indicate that the Redstart's range is being affected by climate change. While the species appears to be adapting and its population is stable, these affects are putting an increased strain on its migration patterns [(Heisman, 2024)](https://www.allaboutbirds.org/news/american-redstarts-can-speed-up-their-migration-but-theres-a-cost/).
 
 <hr style="height: 4px; background-color: black; border: none; margin: 20px 0;">
@@ -68,7 +68,7 @@ According to the [Cornell Lab of Ornithology](https://www.allaboutbirds.org/guid
 
 <a href="./img/ndvi_project.html" target="_blank" rel="noopener noreferrer" style="font-weight: bold;">Link to my complete analysis and Python code</a>
 
-**Introduction**
+**Introduction**    
 Rocky Mountain National Park (RMNP) in Colorado is known for its impressive mountains, forests, alpine landscapes, and wildlife. While there are many important ecological features in the park, pine forests are especially important for a variety of reasons. Pine trees in the park help to reduce erosion, regulate temperatures, and provide important habitat for many birds and animals (Colorado State Forest Service). However, in recent decades, these trees have been under threat from pine bark beetles and wildfires. To analyse the impact of these threats, I will be using the Normalized Difference Vegetation Index (NDVI) from the timeframe of 2000 to 2024. This index measures "greenness" of vegetation using remotely sensed data, which helps to quantify vegetation health.
 
 <p align="justify">
@@ -81,17 +81,16 @@ Rocky Mountain National Park (RMNP) in Colorado is known for its impressive moun
     rel="noopener noreferrer">Mountain Pine Beetle. NPS</a>).
 </p>
 
-**Wildfires in Rocky Mountain National Park**
+**Wildfires in Rocky Mountain National Park**    
 Fires are a natural part of forest ecosystems. However, with impacts from climate change and pine bark beetles, fires in the park and surrounding area have been increasing in severity and size in recent years [(Fire History. NPS)](https://www.nps.gov/romo/learn/fire-history.htm). In 2012, the Fern Lake Fire burned over 3,500 acres in the park, with beetle kill trees exacerbating conditions. In 2020, the Cameron Peak and East Troublesome Fires burned roughly 30,000 acres within the park [(Fire History. NPS)](https://www.nps.gov/romo/learn/fire-history.htm).
 
-**Timeframe**
+**Timeframe**    
 To analyze the impacts of pine beetles and wildfires, I will be using NDVI data from 2000 to 2024. This time frame will encompass the beginnings of the pine beetle outbreaks starting in the early 2000s through 2009, and it will also capture the more recent wildfires from 2012 and 2020, as well as any recent regrowth from these impacts. Additionally, I'm only interested in the vegetation health of pine trees, so I will be downloading data from January to account for this. In January, the only vegetation cover should be pine trees, with other vegetation either covered in snow or dormant.
 
-**Data**
+**Data**    
 I will be using Moderate Resolution Imaging Spectroradiometer (MODIS) NDVI data downloaded from [NASA's EarthData catalog](https://www.earthdata.nasa.gov/). Specifically, I will be downloading via NASA's Application for Extracting and Exploring Analysis Ready Samples [(AppEEARS)](https://appeears.earthdatacloud.nasa.gov/explore) using the earthpy package. This will allow me to access the data quickly in Github Codespaces. 
 
-**Results**
-
+**Results**    
 <img src="img/NDVI_compare_2000vs2024.png" alt="NDVI_Compare" width="800">  
 These side-by-side maps compare NDVI in 2000 vs. 2024. Darker greens represent healthier vegetation, whereas whites/pinks represent less healthy vegetation. 
 
@@ -121,7 +120,7 @@ Plot showing NDVI values from 2000 to 2024 inside RMNP with a linear regression 
 **Migration Mapping**   
 Knowing the month-by-month range of the Balitmore Oriole's migration path can be a useful tool for conservation efforts. Since the Oriole is a migratory species, it relies on a wide range of habitats across Central and North America. Knowing when and where this species will be can aid conservation efforts. While this analysis focuses on the 2024 migration range, mapping the range over multiple years or decades can be an important way of assessing the health of the Oriole population.
 
-**Migration Data from GBIF**   
+**Migration Data from GBIF**    
 To map the Oriole's annual migration, I will be using occurrence data from the [Global
 Biodiversity Information Facility (GBIF)](https://www.gbif.org/). Occurrence data is largely collected using [eBird](https://ebird.org/home) and [iNaturalist](https://www.inaturalist.org/), as well as several other reputable citizen science data sources ([GBIF Data Processing](https://www.gbif.org/data-processing)).
 
