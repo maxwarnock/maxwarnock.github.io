@@ -7,7 +7,7 @@ show_profile: false
 # Earth Data Analytics Portfolio
 <hr style="height: 4px; background-color: black; border: none; margin: 20px 0;">
 
-## Analysis of the Migration Range of the American Redstart (Setophaga ruticilla) from 2004 to 2024 {redstart}
+## Analysis of the Migration Range of the American Redstart (Setophaga ruticilla) from 2004 to 2024 {#redstart}
 12/3/25
 
 [Link to my complete analysis and Python code](./migration_download_steps.md)
