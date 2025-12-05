@@ -18,8 +18,7 @@ show_profile: false
 
 <hr style="height: 2px; background-color: grey; border: none; margin: 20px 0;">
 
-## Remote Sensing/GIS Project: Spatial Analysis of the Glaciers in Grant Teton National Park between 1994 to 2015
-4/15/2019        
+## Remote Sensing/GIS Project: Spatial Analysis of the Glaciers in Grant Teton National Park between 1994 to 2015        
 <iframe 
     src="https://drive.google.com/file/d/11UZ70_EuOYQTBxUNrOJ6ak_MlCxGjZFy/preview" 
     width="100%" 
