@@ -17,8 +17,6 @@ show_profile: false
 
 <img src="maps/Lab07_map.jpg" alt="portland3" width="1650">
 
-<img src="maps/map_lab5.jpg" alt="portland4" width="1650">
-
 <img src="maps/Warnock_lab4_map.jpg" alt="gulfport1" width="1650">
 
 <img src="maps/Warnock_lab3_map.png" alt="denver1" width="1650">
