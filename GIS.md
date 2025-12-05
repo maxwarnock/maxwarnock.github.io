@@ -22,7 +22,7 @@ show_profile: false
 <iframe 
     src="https://drive.google.com/file/d/11UZ70_EuOYQTBxUNrOJ6ak_MlCxGjZFy/preview" 
     width="100%" 
-    height="600px"
+    height="500px"
     allow="autoplay">
 </iframe>
 
