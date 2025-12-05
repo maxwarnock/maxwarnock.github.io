@@ -19,11 +19,11 @@ show_profile: false
 <hr style="height: 2px; background-color: grey; border: none; margin: 20px 0;">
 
 <img src="maps/bomb_cyclone_california_warnock.gif" alt="cyclone1" width="816">
-**Figure 1:** Animated visualization of the 2023 bomb cyclone in California. I created this GIF in QGIS using the Copernicus Climate Data Store. 
+Animated visualization of the 2023 bomb cyclone in California. I created this GIF in QGIS using the Copernicus Climate Data Store. 
 <hr style="height: 2px; background-color: grey; border: none; margin: 20px 0;">
 
 <img src="maps/escalante_river.jpg" alt="escalante1" width="1272">
-**Figure 2:** Relative Elevation Model (REM) image of a section of the Escalante River in Utah. Image created in QGIS. 
+Relative Elevation Model (REM) image of a section of the Escalante River in Utah. Image created in QGIS. 
 
 
 
