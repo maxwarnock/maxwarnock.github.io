@@ -10,7 +10,7 @@ show_profile: false
 # Remote Sensing Example Work {#remote-sensing}
 <img src="maps/bomb_cyclone_california_warnock.gif" alt="cyclone1" width="816">
 
-<img src="maps/escalante-river.jpg" alt="escalante1" width="1272">
+<img src="maps/escalante_river.jpg" alt="escalante1" width="1272">
 
 
 
