@@ -92,6 +92,13 @@
       {% endif %}
 
       <a href="{{ '/GIS' | relative_url }}" class="{% if page.url contains 'GIS' %}active{% endif %}">GIS Portfolio</a>
+
+      {% if page.url contains 'GIS' %}
+        <div class="sub-links" style="margin-left: 15px; font-size: 0.9em;">
+          <a href="{{ '/GIS#remote-sensing' | relative_url }}">Remote Sensing</a>
+          <a href="{{ '/GIS#cartography' | relative_url }}">Cartography Examples</a>
+        </div>
+      {% endif %}
     </nav>
 
   </aside>
