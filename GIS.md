@@ -7,10 +7,14 @@ show_profile: false
 # GIS Portfolio
 <hr style="height: 4px; background-color: black; border: none; margin: 20px 0;">
 
-# Remote Sensing Example Work
+# Remote Sensing Example Work {#remote-sensing}
 <img src="maps/bomb_cyclone_california_warnock.gif" alt="cyclone1" width="816">
 
+<img src="maps/escalante-river.jpg" alt="escalante1" width="1272">
 
+
+
+<hr style="height: 4px; background-color: black; border: none; margin: 20px 0;">
 # Cartography Examples {#cartography}
 
 <img src="maps/Map_Layout_lab09.jpg" alt="portland1" width="1650">
