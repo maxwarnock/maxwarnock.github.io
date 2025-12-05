@@ -7,6 +7,9 @@ show_profile: false
 # GIS Portfolio
 <hr style="height: 4px; background-color: black; border: none; margin: 20px 0;">
 
+# Remote Sensing Example Work
+<img src="maps/bomb_cyclone_california_warnock.gif" alt="cyclone1" width="816">
+
 
 # Cartography Examples {#cartography}
 
