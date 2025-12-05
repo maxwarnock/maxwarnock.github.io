@@ -9,7 +9,7 @@ show_profile: false
 
 # Remote Sensing Example Work {#remote-sensing}
 
-## Remote Sensing Project: Remotely Sensing Glacial Retreat and Snowpack Levels in Saas Fee, Switzerland From 2013 to 2024
+## Remotely Sensing Glacial Retreat and Snowpack Levels in Saas Fee, Switzerland From 2013 to 2024
 12/1/24    
 <a href="https://sites.google.com/colorado.edu/geog4093finalproject/home?authuser=1" target="_blank" rel="noopener noreferrer">
     Link to Project Webpage
@@ -18,13 +18,14 @@ show_profile: false
 
 <hr style="height: 2px; background-color: grey; border: none; margin: 20px 0;">
 
-## Remote Sensing/GIS Project: Spatial Analysis of the Glaciers in Grant Teton National Park between 1994 to 2015        
+## Spatial Analysis of the Glaciers in Grant Teton National Park between 1994 to 2015        
 <iframe 
-    src="https://drive.google.com/file/d/11UZ70_EuOYQTBxUNrOJ6ak_MlCxGjZFy/preview" 
+    src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://drive.google.com/uc?export=download&id=11UZ70_EuOYQTBxUNrOJ6ak_MlCxGjZFy"
     width="100%" 
-    height="800px"
-    allow="autoplay">
+    height="800px">
 </iframe>
+
+
 
 
 
