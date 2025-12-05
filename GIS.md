@@ -11,7 +11,10 @@ show_profile: false
 
 ## Remote Sensing Project: Remotely Sensing Glacial Retreat and Snowpack Levels in Saas Fee, Switzerland From 2013 to 2024
 12/1/24    
-[Link to Project Webpage](https://sites.google.com/colorado.edu/geog4093finalproject/home?authuser=1)
+<a href="https://sites.google.com/colorado.edu/geog4093finalproject/home?authuser=1" target="_blank" rel="noopener noreferrer">
+    Link to Project Webpage
+</a>
+
 
 <hr style="height: 2px; background-color: grey; border: none; margin: 20px 0;">
 
