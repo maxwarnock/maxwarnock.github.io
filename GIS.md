@@ -9,7 +9,7 @@ show_profile: false
 
 <hr style="height: 4px; background-color: black; border: none; margin: 20px 0;">
 
-## A Tool for Mapping Wildland Urban Interface
+## A Tool for Mapping Wildland Urban Interface {#wui}
 
 
 <img src="maps/wui_and_veg.png" alt="wui1" width="1600">
