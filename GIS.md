@@ -54,21 +54,26 @@ During fall 2025, I volunteered with the Intermountain Division of the Salvation
 # Remote Sensing Projects {#remote-sensing}
 
 ## Remotely Sensing Glacial Retreat and Snowpack Levels in Saas Fee, Switzerland From 2013 to 2024
-12/1/24    
+12/1/24   
+
+{% raw %}
 <a href="https://sites.google.com/colorado.edu/geog4093finalproject/home?authuser=1" target="_blank" rel="noopener noreferrer">
     Link to Project Webpage
 </a>
-
+{% endraw %}
 
 <hr style="height: 2px; background-color: grey; border: none; margin: 20px 0;">
 
-## Spatial Analysis of the Glaciers in Grant Teton National Park between 1994 to 2015        
+## Spatial Analysis of the Glaciers in Grant Teton National Park between 1994 to 2015    
+
+{% raw %}
 <iframe 
     src="https://drive.google.com/file/d/11UZ70_EuOYQTBxUNrOJ6ak_MlCxGjZFy/preview" 
     width="100%" 
     height="500px"
     allow="autoplay">
 </iframe>
+{% endraw %}
 
 
 
