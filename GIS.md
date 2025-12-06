@@ -9,6 +9,19 @@ show_profile: false
 
 <hr style="height: 4px; background-color: black; border: none; margin: 20px 0;">
 
+## A Tool for Mapping Wildland Urban Interface
+
+
+<img src="maps/wui_and_veg.png" alt="wui1" width="1600">
+
+[Check out the repository here](https://github.com/maxwarnock/wui_mapping)
+
+
+
+
+<hr style="height: 4px; background-color: black; border: none; margin: 20px 0;">
+
+
 ## Salvation Army Volunteer GIS Work {#salvarmy}
 
 
