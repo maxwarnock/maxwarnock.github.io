@@ -24,7 +24,7 @@ show_profile: false
 </arcgis-embedded-map>
 {% endraw %}
 
-During fall 2025, I volunteered with the Intermountain Division of the Salvation Army to create an interactive map of the division using ArcGIS Pro. Input data from the division included basic data tables of corps and service centers, and related information such as zip codes of service. From this, I wrote a Python script utilizing arcpy tools to generate the map above. This map will be used on the [Salvation Army Intermountain Division website](/https://intermountaineds.salvationarmy.org/intermountain_emergency_disaster_services/) as a way for users to search for resources available to them. 
+During fall 2025, I volunteered with the Intermountain Division of the Salvation Army to create an interactive map of the division using ArcGIS Pro. Input data from the division included basic data tables of corps and service centers, and related information such as zip codes of service. From this, I wrote a Python script utilizing arcpy tools to generate the map above. This map will be used on the [Salvation Army Intermountain Division website](https://intermountaineds.salvationarmy.org/intermountain_emergency_disaster_services/) as a way for users to search for resources available to them. 
 
 
 
