@@ -18,7 +18,7 @@ show_profile: false
 
 {% raw %}
 <iframe 
-    src="maps/Final Paper - A Tool For Mapping the Wildland-Urban Interface.pdf" 
+    src="maps/wui_mapping_paper.pdf" 
     width="100%" 
     height="900px"
     allow="autoplay">
