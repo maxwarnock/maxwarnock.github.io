@@ -7,7 +7,7 @@ show_profile: false
 # GIS Portfolio
 <hr style="height: 4px; background-color: black; border: none; margin: 20px 0;">
 
-# Remote Sensing Example Work {#remote-sensing}
+# Remote Sensing Projects {#remote-sensing}
 
 ## Remotely Sensing Glacial Retreat and Snowpack Levels in Saas Fee, Switzerland From 2013 to 2024
 12/1/24    
@@ -73,3 +73,19 @@ Relative Elevation Model (REM) image of a section of the Escalante River in Utah
 **Figure 7:** Map showing land ownership, railroads, cities, and flood zones in Tillamook County, OR. This map could be used for general planning purposes. 
 
 
+<hr style="height: 4px; background-color: black; border: none; margin: 20px 0;">
+
+## Writing Examples {#writing}
+<iframe 
+    src="maps/uncertainty_essay.pdf" 
+    width="100%" 
+    height="500px"
+    allow="autoplay">
+</iframe>
+
+<iframe 
+    src="maps/scale_essay.pdf" 
+    width="100%" 
+    height="500px"
+    allow="autoplay">
+</iframe>
