@@ -10,3 +10,11 @@ In my free time, I enjoy hiking, swimming, reading, playing piano, and playing b
 
 **Education:**
 - University of Colorado Boulder, Bachelor of Arts in Geography, and Bachelor of Music, 2020-2025
+
+
+<iframe 
+    width="100%" 
+    height="600" 
+    src="https://www.arcgis.com/apps/Embed/index.html?webmap=ee10287c145d43b2be3b647c7ad15bee&extent=-130,20,-65,55&zoom=true&previewImage=false&legend=true&disable_scroll=true"
+    frameborder="0">
+</iframe>
