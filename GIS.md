@@ -12,14 +12,13 @@ show_profile: false
 ## Salvation Army Volunteer GIS Work 
 
 
-<div style="position: relative; padding-bottom: 60%; height: 0; overflow: hidden;">
-  <iframe 
-      src="https://www.arcgis.com/apps/mapviewer/index.html?configurableview=true&webmap=ee10287c145d43b2be3b647c7ad15bee&theme=light&center=-108.74416013251762,43.336786737727394&scale=18489297.737236"
-      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-      frameborder="0"
-      allowfullscreen>
-  </iframe>
-</div>
+<iframe 
+    width="100%" 
+    height="600" 
+    src="https://www.arcgis.com/apps/Embed/index.html?webmap=ee10287c145d43b2be3b647c7ad15bee&extent=-130,20,-65,55&zoom=true&previewImage=false&legend=true&disable_scroll=true"
+    frameborder="0">
+</iframe>
+
 
 
 <hr style="height: 4px; background-color: black; border: none; margin: 20px 0;">
