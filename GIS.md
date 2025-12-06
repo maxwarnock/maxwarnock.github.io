@@ -16,15 +16,6 @@ show_profile: false
 
 [Check out the repository here](https://github.com/maxwarnock/wui_mapping)
 
-{% raw %}
-<iframe 
-    src="maps/wui_mapping_paper.pdf" 
-    width="100%" 
-    height="900px"
-    allow="autoplay">
-</iframe>
-{% endraw %}
-
 
 <hr style="height: 4px; background-color: black; border: none; margin: 20px 0;">
 
