@@ -16,6 +16,12 @@ show_profile: false
 
 [Check out the repository here](https://github.com/maxwarnock/wui_mapping)
 
+<iframe 
+    src="maps/Final Paper - A Tool For Mapping the Wildland-Urban Interface.pdf" 
+    width="100%" 
+    height="900px"
+    allow="autoplay">
+</iframe>
 
 
 
@@ -116,13 +122,13 @@ Relative Elevation Model (REM) image of a section of the Escalante River in Utah
 <iframe 
     src="maps/uncertainty_essay.pdf" 
     width="100%" 
-    height="500px"
+    height="900px"
     allow="autoplay">
 </iframe>
 
 <iframe 
     src="maps/scale_essay.pdf" 
     width="100%" 
-    height="500px"
+    height="900px"
     allow="autoplay">
 </iframe>
