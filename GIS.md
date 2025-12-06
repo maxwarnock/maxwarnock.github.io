@@ -12,12 +12,18 @@ show_profile: false
 ## Salvation Army Volunteer GIS Work 
 
 
-<iframe 
-    width="100%" 
-    height="600" 
-    src="https://www.arcgis.com/apps/Embed/index.html?webmap=ee10287c145d43b2be3b647c7ad15bee&extent=-130,20,-65,55&zoom=true&previewImage=false&legend=true&disable_scroll=true"
-    frameborder="0">
-</iframe>
+{% raw %}
+<arcgis-embedded-map 
+    style="height:600px;width:100%;" 
+    item-id="ee10287c145d43b2be3b647c7ad15bee"
+    theme="light" 
+    share-enabled 
+    center="-108.74416013251762,43.336786737727394"
+    scale="18489297.737236"
+    portal-url="https://ucboulder.maps.arcgis.com">
+</arcgis-embedded-map>
+{% endraw %}
+
 
 
 
