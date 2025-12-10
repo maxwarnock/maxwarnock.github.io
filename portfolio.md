@@ -68,8 +68,7 @@ The map above shows the entire migration range of the Redstart for the years of 
 According to the [Cornell Lab of Ornithology](https://www.allaboutbirds.org/guide/American_Redstart/overview), the [Cary Institute of Ecosystem Studies](https://www.caryinstitute.org/news-insights/feature/climate-change-pushing-american-redstarts-breeding-range-southward), and the study by [Cooper et al](https://doi.org/10.1890/14-1365.1), the American Redstart's migration range has been forced southwards in recent decades due to climate change impacts on their habitat, particularly in Central and South America. This analysis focused on two decades of data of GBIF observations of the Redstart's range in order to observe trends in the extent of the Redstart's range. The resulting map shows an increase in the extent of the Redstart's southern range during the winter months, indicating that the bird is venturing farther into South America in search of food. Additionally, the Northern range reduced slightly. These findings are consistent with the studies cited above, showing that the Redstart's range is being affected by climate change and deforestation. While the species appears to be adapting and its population is stable, these affects are putting an increased strain on its migration patterns and could lead to more negative impacts in the future if conditions worsen [(Heisman, 2024)](https://www.allaboutbirds.org/news/american-redstarts-can-speed-up-their-migration-but-theres-a-cost/).
 
 
-**Works Cited**
-<small>
+**Works Cited**    
 Cary Institute of Ecosystem Studies. Climate change is pushing the American redstart’s breeding range southward. https://www.caryinstitute.org/news-insights/feature/climate-change-pushing-american-redstarts-breeding-range-southward
 
 Cooper, N.W., Sherry, T.W. and Marra, P.P. (2015), Experimental reduction of winter food decreases body condition and delays migration in a long-distance migratory bird. Ecology, 96: 1933-1942. https://doi.org/10.1890/14-1365.1 
@@ -81,7 +80,7 @@ Franco, M.A., Rizzo, L.V., Teixeira, M.J. et al. How climate change and deforest
 Heisman, Rebecca. American Redstarts Can Speed Up Their Migration, but There’s a Cost. Cornell Lab of Ornithology. 2024. https://www.allaboutbirds.org/news/american-redstarts-can-speed-up-their-migration-but-theres-a-cost/.
 
 Y. Malhi, O. L. Phillips, Wolfgang Cramer, Alberte Bondeau, Sibyll Schaphoff, Wolfgang Lucht, Benjamin Smith, Stephen Sitch; Tropical forests and the global carbon cycle: impacts of atmospheric carbon dioxide, climate change and rate of deforestation. Philos Trans R Soc Lond B Biol Sci 29 March 2004; 359 (1443): 331–343. https://doi.org/10.1098/rstb.2003.1428
-<small>
+
 
 <hr style="height: 4px; background-color: black; border: none; margin: 20px 0;">
 
