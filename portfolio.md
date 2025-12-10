@@ -58,9 +58,9 @@ I will be plotting occurrence (sightings of Redstarts) data within ecoregions to
 
 <embed type="text/html" src="/img/redstart-migration-years.html" width="800" height="650">
 
-**Figure 2:** Map showing the entire range of the American Redstart for the years of 2004, 2009, 2014, 2019, and 2024. Density of observations (for the entire year) is represented by the blue color scale.
+**Figure 2:** Map showing the entire range of the American Redstart for the years of 2004, 2009, 2014, 2019, and 2024. Density of observations for the entire year is represented by the blue color scale. Yearly density values were calculated by taking the sum of monthly normalized occurrence values. See my download-200X.ipynb files in my repository for a full explaination of normalization steps.
 
-**Analysis**
+**Analysis**    
 The map above shows the entire migration range of the Redstart for the years of 2004, 2009, 2014, 2019, and 2024. In 2004, notice the northern extent of the Redstart in Northwestern Canada. This ecoregion disappears in later years, meaning the Redstart has not been observed in that northern ecoregion in more than a decade according to the GBIF data. As you scroll through the years, also notice the range extent in South America. In 2004, the range is fairly limited in South America. However, the Redstart's range in South America has gradually been increasing southward, as well as the density of observations. Notice that the density of observations in 2004 is relatively low. However, in more recent years, the density is much higher. 
 
 
