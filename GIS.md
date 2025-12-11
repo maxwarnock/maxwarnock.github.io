@@ -18,6 +18,19 @@ Team members: Quin Browder, Victoria Madden
 
 [Link to the research paper and code repository](https://github.com/maxwarnock/wui_mapping)
 
+<p align="justify">
+  <img src="img/oct-25-2024-wildland-urban-fire.png" alt="wui_noaa_image" align="right" width="350" style="margin-left: 10px; margin-bottom: 3px;">
+<strong>Introduction</strong><br> 
+Between the bustling centers of urban development and the untamed wilderness lies a
+boundary called the Wildland-Urban Interface (WUI). As suburban sprawl increases, so does the
+WUI and its risks. This interface poses an opportunity for fire to spread from one type of land to
+another – wildfires can enter the city and structure fires can spread to the forest [3]. Mapping this
+boundary and its properties allows for identification of areas which present the largest risk of a
+wide-spread fire and can help determine the best fire mitigation strategies for these areas.
+</p>
+
+
+
 **Introduction**   
 Between the bustling centers of urban development and the untamed wilderness lies a
 boundary called the Wildland-Urban Interface (WUI). As suburban sprawl increases, so does the
