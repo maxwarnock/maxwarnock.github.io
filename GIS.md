@@ -10,7 +10,7 @@ show_profile: false
 <hr style="height: 4px; background-color: black; border: none; margin: 20px 0;">
 
 ## A Tool for Mapping Wildland Urban Interface {#wui}
-5/4/25 
+5/4/25    
 Final Project for GEOG 4303 - Spatial Programming
 
 Project leader: Max Warnock
