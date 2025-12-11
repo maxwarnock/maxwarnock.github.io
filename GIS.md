@@ -114,8 +114,24 @@ step 4.
 Left: SILVIS Lab WUI map for 2020. Right: WUI map for 2020 generated with our
 tool.
 
+**Assessing WUI Mapping Results**
+Considerations need to be made when comparing WUI maps. For example, the SILVIS
+Lab WUI maps use NLCD data and U.S. Census data for buildings/developments [6]. This
+building data source is different than the HISDAC-US data source we use, meaning this
+difference in data is an area where inconsistencies between the maps can arise. This may be a
+reason why we found that a lower building threshold produces more agreement between our
+maps. The U.S. census data appears to be classifying these low-density areas differently than the
+HISDAC-US data, which is likely why we had to reduce the threshold to increase agreement.
 
-**WUI Mapping With Vegetation**
+Another consideration when making these comparisons is that WUI maps from the
+SILVIS Lab are only available once a decade due to the low temporal resolution of the U.S.
+census data [6]. This means it’s important to compare generated maps and SILVIS maps for
+years as close to each other as possible. While our method allows users to generate WUI maps
+every 5 years (HISDAC-US temporal resolution) [1], this could lead to inaccurate comparison
+results if a mid-decade WUI map was compared to a SILVIS map.
+
+
+**WUI Mapping With Vegetation**    
 Our tool also incorporates the option to map the WUI with vegetation classes. This is
 useful for quickly observing what types of fuels are near certain WUI areas which can help
 assess fire risk [12]. The tool maps vegetation into two classes of ‘forest’ (NLCD classes 41, 42,
@@ -143,7 +159,7 @@ classes differentiating vegetation types in proximity to the WUI. In this case, 
 classes, but other locations could have up to 6 classes which would include areas of primarily
 forest classes.
 
-**Future Work**
+**Future Work**    
 Future work for this project could include generating historical WUI maps for
 comparison with maps of suburban/urban burn areas to analyze the accuracy of the model at
 predicting which areas are at risk. The tool could also be run on data for all available years, and
