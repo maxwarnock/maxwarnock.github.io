@@ -17,7 +17,7 @@ show_profile: false
 <strong>Introduction</strong><br> 
   The American Redstart (Setophaga ruticilla) is a colorful warbler that migrates across the Americas each year. Males have a dark black head and chest, with bright orange on the wings, sides, and tail, while females are a lighter grey color with yellow highlights. These warblers prefer nesting in open woodlands across North America <a href="https://www.allaboutbirds.org/guide/American_Redstart/overview"
     target="_blank"
-    rel="noopener noreferrer">(Cornell Lab of Ornithology)</a>). They spend the winters in Central and South America, and migrate as far as Northern Canada for breeding during the summer. Like many migratory birds, climate change and human developments are impacting the Redstart's migration patterns and survival according to the (<a href="https://www.caryinstitute.org/news-insights/feature/climate-change-pushing-american-redstarts-breeding-range-southward"
+    rel="noopener noreferrer">(Cornell Lab of Ornithology)</a>. They spend the winters in Central and South America, and migrate as far as Northern Canada for breeding during the summer. Like many migratory birds, climate change and human developments are impacting the Redstart's migration patterns and survival according to the (<a href="https://www.caryinstitute.org/news-insights/feature/climate-change-pushing-american-redstarts-breeding-range-southward"
     target="_blank"
     rel="noopener noreferrer">Cary Institute of Ecosystem Studies</a>).
 </p>
