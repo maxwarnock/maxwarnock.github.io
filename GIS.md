@@ -22,7 +22,7 @@ Team members: Quin Browder, Victoria Madden
 <div style="float: right; text-align: center; margin-left: 10px; margin-bottom: 3px;">
     <img src="img/oct-25-2024-wildland-urban-fire.png"
          alt="wui_noaa_image"
-         width="350">
+         width="200">
     <div style="font-size: 12px; color: #555;">Image credit: NOAA</div>
 </div>
 
