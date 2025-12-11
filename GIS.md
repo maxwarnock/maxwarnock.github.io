@@ -18,8 +18,15 @@ Team members: Quin Browder, Victoria Madden
 
 [Link to the research paper and code repository](https://github.com/maxwarnock/wui_mapping)
 
+
+<div style="float: right; text-align: center; margin-left: 10px; margin-bottom: 3px;">
+    <img src="img/oct-25-2024-wildland-urban-fire.png"
+         alt="wui_noaa_image"
+         width="350">
+    <div style="font-size: 12px; color: #555;">Image credit: NOAA</div>
+</div>
+
 <p align="justify">
-  <img src="img/oct-25-2024-wildland-urban-fire.png" alt="wui_noaa_image" align="right" width="350" style="margin-left: 10px; margin-bottom: 3px;">
 <strong>Introduction</strong><br> 
 Between the bustling centers of urban development and the untamed wilderness lies a
 boundary called the Wildland-Urban Interface (WUI). As suburban sprawl increases, so does the
@@ -29,15 +36,6 @@ boundary and its properties allows for identification of areas which present the
 wide-spread fire and can help determine the best fire mitigation strategies for these areas.
 </p>
 
-
-
-**Introduction**   
-Between the bustling centers of urban development and the untamed wilderness lies a
-boundary called the Wildland-Urban Interface (WUI). As suburban sprawl increases, so does the
-WUI and its risks. This interface poses an opportunity for fire to spread from one type of land to
-another – wildfires can enter the city and structure fires can spread to the forest [3]. Mapping this
-boundary and its properties allows for identification of areas which present the largest risk of a
-wide-spread fire and can help determine the best fire mitigation strategies for these areas.
 
 **Wildland Urban Interface (WUI) Definition**
 The WUI is an area where structures are built in or near wildland vegetation [2]. The U.S.
@@ -52,6 +50,28 @@ thresholds for building density, vegetation cover, buffer distance to large area
 large vegetation area definitions, and moving window radii. The user can also request that the
 interface and intermix be mapped using classifications representing proximity to the most
 prominent vegetation types in the area.
+
+<div style="float: right; text-align: center; margin-left: 10px; margin-bottom: 3px;">
+    <img src="img/wui_data.jpg"
+         alt="wui_data_image"
+         width="420">
+    <div style="font-size: 12px; color: #555;"></div>
+</div>
+
+<p align="justify">
+<strong>Mapping and Data Sources</strong><br> 
+Our tool uses vegetation data from the National Land Cover Database (NLCD) [11], and
+structure data from the Built-Up Property Locations (BUPL) layer from the Historical Settlement
+Data Compilation for the U.S. (HISDAC-US) [1]. The tool package comes with clipped sample
+data for Los Angeles, CA 2020, and the user also has the option to input data for other areas of
+interest anywhere in the U.S. Both data sets are available back to 1985. The tool is designed so
+that the user can simply clip an NLCD raster to their study area of interest, and the tool will clip
+the BUPL layer (e.g. if using an unclipped BUPL layer (~30MB) for the entire U.S.). The NLCD
+raster is provided at 30-meter resolution and has many classes representing different vegetation
+types, as well as development data which we ignore [11]. The BUPL raster is provided at 250-
+meter resolution and shows the number of structures within each cell [1].
+</p>
+
 
 **Mapping and Data Sources**
 Our tool uses vegetation data from the National Land Cover Database (NLCD) [11], and
