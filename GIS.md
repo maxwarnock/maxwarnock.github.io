@@ -328,3 +328,7 @@ Relative Elevation Model (REM) image of a section of the Escalante River in Utah
     height="900px"
     allow="autoplay">
 </iframe>
+
+## Geographic Statistics Project
+
+[Final Group Project for GEOG 3023 - Statistics for Geographers](img/Group-Project.html)
