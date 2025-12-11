@@ -185,33 +185,33 @@ suburban sprawl more safely.
 **Works Cited**    
 [1] Ahn, Y., Leyk, S., Uhl, J.H. et al. An Integrated Multi-Source Dataset for Measuring
 Settlement Evolution in the United States from 1810 to 2020. Sci Data 11, 275 (2024).
-https://doi.org/10.1038/s41597-024-03081-x
+https://doi.org/10.1038/s41597-024-03081-x    
 [2] Bar-Massada, Avi; Stewart, Susan I.; Hammer, Roger B. et al. 2013. Using structure
 locations as a basis for mapping the wildland urban interface. Journal of Environmental
 Management. 128: 540-547.
-https://www.fs.usda.gov/rm/pubs_other/rmrs_2013_bar_masada_a001.pdf
+https://www.fs.usda.gov/rm/pubs_other/rmrs_2013_bar_masada_a001.pdf    
 [3] Colorado State Forest Service. Wildland Urban Interface. Colorado State University.
-https://csfs.colostate.edu/wildfire-mitigation/colorados-wildland-urban-interface/
+https://csfs.colostate.edu/wildfire-mitigation/colorados-wildland-urban-interface/    
 [4] Esri, ArcGIS Pro. Snap Raster (Environmental setting): https://pro.arcgis.com/en/pro-
-app/latest/tool-reference/environment-settings/snap-raster.htm
+app/latest/tool-reference/environment-settings/snap-raster.htm    
 [5] Google Machine Learning. Classification: Accuracy, recall, precision, and related metrics.
 ML Concepts. https://developers.google.com/machine-learning/crash-
-course/classification/accuracy-precision-recall#false_positive_rate
+course/classification/accuracy-precision-recall#false_positive_rate    
 [6] Radeloff, Volker C.; Helmers, David P.; Kramer, H. Anu. et al. 2018. Rapid growth of the
 US wildland-urban interface raises wildfire risk. Proceedings of the National Academy of
-Sciences. 115(13): 3314-3319. https://doi.org/10.1073/pnas.1718850115
+Sciences. 115(13): 3314-3319. https://doi.org/10.1073/pnas.1718850115    
 [7] Scikit Learn. Confusion Matrix. https://scikit-
-learn.org/stable/modules/generated/sklearn.metrics.confusion_matrix.html
+learn.org/stable/modules/generated/sklearn.metrics.confusion_matrix.html    
 [8] Stack Overflow. How to Write a Confusion Matrix. 27 Jan, 2010.
-https://stackoverflow.com/questions/2148543/how-to-write-a-confusion-matrix
+https://stackoverflow.com/questions/2148543/how-to-write-a-confusion-matrix    
 [9] Uhl, J. H., Leyk, S., McShane, C. M., Braswell, A. E., Connor, D. S., and Balk, D.: Fine-
 grained, spatiotemporal datasets measuring 200 years of land development in the United States,
-Earth Syst. Sci. Data, 13, 119–153, https://doi.org/10.5194/essd-13-119-2021, 2021
+Earth Syst. Sci. Data, 13, 119–153, https://doi.org/10.5194/essd-13-119-2021, 2021    
 [10] USDA and USDI, 2001. Urban wildland interface communities within vicinity of Federal
 lands that are at high risk from wildfire. Federal Register 66, 751e777. Retrieved from:
-http://www.gpo.gov/fdsys/pkg/FR-2001-08-17/pdf/01-20592.pdf.
+http://www.gpo.gov/fdsys/pkg/FR-2001-08-17/pdf/01-20592.pdf.    
 [11] U.S. Geological Survey (USGS), 2024, Annual NLCD Collection 1 Science Products: U.S.
-Geological Survey data release, https://doi.org/10.5066/P94UXNTS.
+Geological Survey data release, https://doi.org/10.5066/P94UXNTS.    
 [12] SILVIS Lab. The Global Wildland-Urban Interface (WUI) 2020. University of Wisconsin-
 Madison. https://geoserver.silvis.forest.wisc.edu/geodata/fast/globalwui/
 
