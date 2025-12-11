@@ -13,10 +13,10 @@ show_profile: false
 5/4/25    
 Final Project for GEOG 4303 - Spatial Programming
 
-Project leader: Max Warnock
+Project leader: Max Warnock    
 Team members: Quin Browder, Victoria Madden
 
-[Link to the research paper and code repository](https://github.com/maxwarnock/wui_mapping)
+[Link to the full research paper and code repository](https://github.com/maxwarnock/wui_mapping)
 
 
 <div style="float: right; text-align: center; margin-left: 10px; margin-bottom: 3px;">
