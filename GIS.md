@@ -114,7 +114,7 @@ step 4.
 Left: SILVIS Lab WUI map for 2020. Right: WUI map for 2020 generated with our
 tool.
 
-**Assessing WUI Mapping Results**
+**Assessing WUI Mapping Results**    
 Considerations need to be made when comparing WUI maps. For example, the SILVIS
 Lab WUI maps use NLCD data and U.S. Census data for buildings/developments [6]. This
 building data source is different than the HISDAC-US data source we use, meaning this
