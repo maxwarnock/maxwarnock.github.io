@@ -10,11 +10,91 @@ show_profile: false
 <hr style="height: 4px; background-color: black; border: none; margin: 20px 0;">
 
 ## A Tool for Mapping Wildland Urban Interface {#wui}
+5/4/25 
+Final Project for GEOG 4303 - Spatial Programming
+
+Project leader: Max Warnock
+Team members: Quin Browder, Victoria Madden
+
+[Link to the research paper and code repository](https://github.com/maxwarnock/wui_mapping)
+
+**Introduction**   
+Between the bustling centers of urban development and the untamed wilderness lies a
+boundary called the Wildland-Urban Interface (WUI). As suburban sprawl increases, so does the
+WUI and its risks. This interface poses an opportunity for fire to spread from one type of land to
+another – wildfires can enter the city and structure fires can spread to the forest [3]. Mapping this
+boundary and its properties allows for identification of areas which present the largest risk of a
+wide-spread fire and can help determine the best fire mitigation strategies for these areas.
+
+**Wildland Urban Interface (WUI) Definition**
+The WUI is an area where structures are built in or near wildland vegetation [2]. The U.S.
+Federal Register defines the WUI as an area with at least 6.17 structures per square kilometer
+and one of two vegetation requirements: either 50% or more of the land is covered in vegetation,
+or the structures are within 2.4 kilometers of at least 5 square kilometers of 75% vegetation
+coverage [10]. The first of these categories is considered the Wildland-Urban Intermix, and the
+second is Wildland-Urban Interface [2]. However, different research questions may be interested
+in slightly different mapping requirements, so these standard values are not hard coded into our
+tool. Instead, the user inputs all the requirements for the intermix and interface including
+thresholds for building density, vegetation cover, buffer distance to large areas of vegetation,
+large vegetation area definitions, and moving window radii. The user can also request that the
+interface and intermix be mapped using classifications representing proximity to the most
+prominent vegetation types in the area.
+
+**Mapping and Data Sources**
+Our tool uses vegetation data from the National Land Cover Database (NLCD) [11], and
+structure data from the Built-Up Property Locations (BUPL) layer from the Historical Settlement
+Data Compilation for the U.S. (HISDAC-US) [1]. The tool package comes with clipped sample
+data for Los Angeles, CA 2020, and the user also has the option to input data for other areas of
+interest anywhere in the U.S. Both data sets are available back to 1985. The tool is designed so
+that the user can simply clip an NLCD raster to their study area of interest, and the tool will clip
+the BUPL layer (e.g. if using an unclipped BUPL layer (~30MB) for the entire U.S.). The NLCD
+raster is provided at 30-meter resolution and has many classes representing different vegetation
+types, as well as development data which we ignore [11]. The BUPL raster is provided at 250-
+meter resolution and shows the number of structures within each cell [1].
+
+**Methods**
+Our tool begins with data preparation and utilizes ArcPy tools for this task. Since we are
+using data sources with two different resolutions, we begin by resampling the smaller resolution
+of the NLCD data to match the larger resolution of the BUPL data. This means that there is some
+loss of data resolution for vegetation, but it allows us to use the HISDAC-US data source. We
+also reproject the NLCD to match the BUPL projection to ensure that the rasters are comparable.
+Finally, we use the ExtractByMask tool to clip the BUPL data to the input NLCD extent. We
+found that ExtractByMask works better than ClipRaster for this purpose because the clip tool
+produces “NoData” values on the edges of the raster which causes problems with future steps.
+We also used the ArcPy SnapRaster feature to ensure that both rasters have the same size and
+number of rows and columns [4]. Finally, we convert both NLCD and BUPL rasters into NumPy
+arrays which allows us to start performing selections and map algebra operations very quickly
+and effectively.
+
+After data preparation is complete, our WUI mapping method follows six general steps
+derived in part thanks to the method outlined by Bar-Massada, et al [2]. The variables used
+below are the accepted standard values used in WUI mapping [2, 6], and users can input different
+values if they want to adjust the mapping output:
+
+1. Run a moving window on the BUPL data and select cells with at least 6.17 buildings
+within a 1 km radius.
+
+2. Run a moving window on NLCD vegetation (classes 41, 42, 43, 51, 52, and 72) to select
+areas with greater than and less than 50% vegetation.
+
+3. From the raw resampled/post-processed NLCD data, select vegetation groupings of 5
+square kilometers in areas of at least 75% vegetation cover using Region Group tool.
+
+4. Buffer the 5 square kilometer vegetation areas to a given radius of 2.4 km.
+
+5. Calculate WUI intermix by adding outputs from step 1 and 2.
+
+6. Calculate WUI interface by adding the building density output from step 1, the vegetation
+selection of areas less than 50% from step 2, and the large vegetation area buffer from
+step 4.
+
+
+
 
 
 <img src="maps/wui_and_veg.png" alt="wui1" width="1600">
 
-[Check out the repository here](https://github.com/maxwarnock/wui_mapping)
+
 
 
 <hr style="height: 4px; background-color: black; border: none; margin: 20px 0;">
