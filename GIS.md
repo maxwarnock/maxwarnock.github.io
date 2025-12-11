@@ -314,7 +314,13 @@ Relative Elevation Model (REM) image of a section of the Escalante River in Utah
 
 <hr style="height: 4px; background-color: black; border: none; margin: 20px 0;">
 
-## Writing Examples {#writing}
+## Statistics Project using Geographic Data in R {#statistics}
+
+[Final Group Project for GEOG 3023 - Statistics for Geographers](img/Group-Project.html)
+
+<hr style="height: 4px; background-color: black; border: none; margin: 20px 0;">
+
+## Writing Samples {#writing}
 <iframe 
     src="maps/uncertainty_essay.pdf" 
     width="100%" 
@@ -329,6 +335,3 @@ Relative Elevation Model (REM) image of a section of the Escalante River in Utah
     allow="autoplay">
 </iframe>
 
-## Geographic Statistics Project {#statistics}
-
-[Final Group Project for GEOG 3023 - Statistics for Geographers](img/Group-Project.html)
