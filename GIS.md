@@ -216,7 +216,8 @@ Geological Survey data release, https://doi.org/10.5066/P94UXNTS.
 Madison. https://geoserver.silvis.forest.wisc.edu/geodata/fast/globalwui/
 
 
-<hr style="height: 4px; background-color: black; border: none; margin: 20px 0;">
+<hr class="shadow-divider">
+
 
 
 ## Salvation Army Volunteer GIS Work {#salvarmy}
