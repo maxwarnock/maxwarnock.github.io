@@ -11,11 +11,10 @@ show_profile: false
 
 ## A Tool for Mapping Wildland Urban Interface {#wui}
 5/4/25    
-Final Project for GEOG 4303 - Spatial Programming
+**Final Project for GEOG 4303 - Spatial Programming**
 
 Project leader: Max Warnock    
 Team members: Quin Browder, Victoria Madden
-
 [Link to the full research paper and code repository](https://github.com/maxwarnock/wui_mapping)
 
 
@@ -216,7 +215,7 @@ Geological Survey data release, https://doi.org/10.5066/P94UXNTS.
 Madison. https://geoserver.silvis.forest.wisc.edu/geodata/fast/globalwui/
 
 
-<hr class="shadow-divider">
+<hr style="height: 4px; background-color: black; border: none; margin: 20px 0;">
 
 
 
