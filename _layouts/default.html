@@ -86,7 +86,7 @@
     <nav>
       <a href="{{ '/' | relative_url }}" class="{% if page.url == '/' %}active{% endif %}">Home</a>
       <a href="{{ '/portfolio' | relative_url }}" class="{% if page.url contains 'portfolio' %}active{% endif %}">Earth Data Analytics Portfolio</a>
-      
+      <a href="{{ '/eds_portfolio_home' | relative_url }}" class="{% if page.url contains 'portfolio' %}active{% endif %}">Portfolio</a>
       
       {% if page.url contains 'portfolio' %}
         <div class="sub-links" style="margin-left: 15px; font-size: 0.9em;">
