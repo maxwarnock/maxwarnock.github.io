@@ -9,7 +9,7 @@ show_profile: false
 
 ## Urban Greenspace and Asthma Prevalence in Columbus, Ohio in 2023 {#asthma}
 2/3/26   
-<a href="./img/columbus-asthma.html" target="_blank" rel="noopener noreferrer" style="font-weight: bold;">Link to my complete analysis and Python code</a>
+<a href="./projects/columbus-asthma.html" target="_blank" rel="noopener noreferrer" style="font-weight: bold;">Link to my complete analysis and Python code</a>
 
 <hr style="height: 4px; background-color: black; border: none; margin: 20px 0;">
 
