@@ -14,14 +14,14 @@ In my free time, I enjoy hiking, swimming, reading, playing piano, and playing b
 
 <div class="portfolio-wrapper">
 
-  <a href="/Portfolio" class="portfolio-card"
+  <a href="/portfolio" class="portfolio-card"
      style="background-image: url('/assets/images/portfolio1.jpg');">
-    <span>Portfolio One</span>
+    <span>Earth Data Analytics Portfolio (Certificate Program)</span>
   </a>
 
   <a href="/GIS" class="portfolio-card"
      style="background-image: url('/assets/images/portfolio2.jpg');">
-    <span>Portfolio Two</span>
+    <span>GIS Portfolio</span>
   </a>
 
 </div>
