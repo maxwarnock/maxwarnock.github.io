@@ -11,5 +11,20 @@ In my free time, I enjoy hiking, swimming, reading, playing piano, and playing b
 **Education:**
 - University of Colorado Boulder, Bachelor of Arts in Geography, and Bachelor of Music, 2020-2025
 
+<div class="portfolio-container">
+
+  <a href="/portfolio.md/" class="portfolio-box">
+    <div class="overlay">
+      <h2>Portfolio One</h2>
+    </div>
+  </a>
+
+  <a href="/GIS.md/" class="portfolio-box">
+    <div class="overlay">
+      <h2>Portfolio Two</h2>
+    </div>
+  </a>
+
+</div>
 
 
