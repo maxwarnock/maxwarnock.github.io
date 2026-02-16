@@ -13,18 +13,21 @@ In my free time, I enjoy hiking, swimming, reading, playing piano, and playing b
 
 <div class="portfolio-container">
 
-  <a href="/portfolio.md/" class="portfolio-box">
+  <a href="/portfolio/" class="portfolio-box"
+     style="background-image: url('/assets/images/portfolio1.jpg');">
     <div class="overlay">
       <h2>Portfolio One</h2>
     </div>
   </a>
 
-  <a href="/GIS.md/" class="portfolio-box">
+  <a href="/GIS/" class="portfolio-box"
+     style="background-image: url('/assets/images/portfolio2.jpg');">
     <div class="overlay">
       <h2>Portfolio Two</h2>
     </div>
   </a>
 
 </div>
+
 
 
