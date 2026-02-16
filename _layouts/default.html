@@ -29,8 +29,7 @@
       border-radius: 50%;
       margin: 0 auto 15px auto;
       display: block;
-}
-
+    }
     aside h2 {
       margin: 0 0 10px 0;
     }
@@ -70,6 +69,38 @@
     }
     .sub-links a:hover {
       color: #007acc;
+    }
+    /* Portfolio Section */
+    .portfolio-wrapper {
+      margin-top: 30px;
+    }
+    .portfolio-card {
+      display: inline-block;
+      width: 220px;
+      height: 220px;
+      margin: 15px;
+      background-size: cover;
+      background-position: center;
+      position: relative;
+      text-decoration: none;
+      color: white;
+      border-radius: 8px;
+      overflow: hidden;
+      vertical-align: top;
+    }
+    .portfolio-card span {
+      position: absolute;
+      bottom: 0;
+      width: 100%;
+      padding: 12px 0;
+      background: rgba(0, 0, 0, 0.6);
+      text-align: center;
+      font-weight: bold;
+      transition: background 0.3s ease;
+    }
+    .portfolio-card:hover span {
+      background: rgba(0, 0, 0, 0.8);
+      text-decoration: underline;
     }
   </style>
 </head>
