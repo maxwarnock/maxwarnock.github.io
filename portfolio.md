@@ -7,7 +7,7 @@ show_profile: false
 # Earth Data Analytics Portfolio
 <hr style="height: 4px; background-color: black; border: none; margin: 20px 0;">
 
-## Land Cover Classification of the Cache la Poudre River Watershed in Northern Colorado   
+## Land Cover Classification of the Cache la Poudre River Watershed in Northern Colorado {#kmeans}   
 2/19/26   
 <a href="./projects/clustering-portfolio-post.html" target="_blank" rel="noopener noreferrer" style="font-weight: bold;">Link to my complete analysis and Python code</a>   
 
