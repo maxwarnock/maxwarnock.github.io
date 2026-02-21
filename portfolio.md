@@ -9,13 +9,13 @@ show_profile: false
 
 ## Land Cover Classification of the Cache la Poudre River Watershed in Northern Colorado {#kmeans}   
 2/19/26   
-<a href="./projects/clustering-portfolio-post.html" target="_blank" rel="noopener noreferrer" style="font-weight: bold;">Link to my complete analysis and Python code</a>   
+<a href="./projects/clustering-portfolio-post.html" target="_blank" rel="noopener noreferrer" style="font-weight: bold;">Link to the project</a>   
 
 <hr style="height: 4px; background-color: black; border: none; margin: 20px 0;">
 
 ## Urban Greenspace and Asthma Prevalence in Columbus, Ohio in 2023 {#asthma}
 2/3/26   
-<a href="./projects/columbus-asthma.html" target="_blank" rel="noopener noreferrer" style="font-weight: bold;">Link to my complete analysis and Python code</a>
+<a href="./projects/columbus-asthma.html" target="_blank" rel="noopener noreferrer" style="font-weight: bold;">Link to the project</a>
 
 <hr style="height: 4px; background-color: black; border: none; margin: 20px 0;">
 
