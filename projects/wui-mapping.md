@@ -40,7 +40,7 @@ interface and intermix be mapped using classifications representing proximity to
 prominent vegetation types in the area.
 
 <div style="float: right; text-align: center; margin-left: 10px; margin-bottom: 3px;">
-    <img src="img/wui_data.jpg"
+    <img src="/img/wui_data.jpg"
          alt="wui_data_image"
          width="420">
     <div style="font-size: 12px; color: #555;"></div>
@@ -98,7 +98,7 @@ selection of areas less than 50% from step 2, and the large vegetation area buff
 step 4.
 
 **Results**    
-<img src="img/wui_results_1.jpg" alt="wui1" width="1600">
+<img src="/img/wui_results_1.jpg" alt="wui1" width="1600">
 Left: SILVIS Lab WUI map for 2020. Right: WUI map for 2020 generated with our
 tool.
 
@@ -141,7 +141,7 @@ our buffered vegetation map to the WUI map by adding the NumPy arrays. The resul
 normal WUI map footprint and intermix vs. interface classes, but now includes extra classes to
 identify the most prominent types of vegetation in proximity to the WUI.
 
-<img src="maps/wui_and_veg.png" alt="wui2" width="1600">
+<img src="/maps/wui_and_veg.png" alt="wui2" width="1600">
 Left: a basic WUI map generated for Los Angeles, 2020. Right: WUI map with added
 classes differentiating vegetation types in proximity to the WUI. In this case, there are only 4
 classes, but other locations could have up to 6 classes which would include areas of primarily
