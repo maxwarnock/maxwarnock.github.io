@@ -12,7 +12,8 @@
   </a>
 
   <a href="https://sites.google.com/colorado.edu/geog4093finalproject/home?authuser=1" class="portfolio-card"
-     style="background-image: url('/img/glacier_change.gif');">
+      class="portfolio-card title-bottom"
+      style="background-image: url('/img/glacier_change.gif');">
     <span>Remotely Sensing Glacial Retreat and Snowpack Levels in Saas Fee, Switzerland</span>
   </a>
 
