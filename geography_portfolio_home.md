@@ -33,4 +33,9 @@ show_profile: false
     <span>Cartography Examples</span>
   </a>
 
+  <a href="/projects/Group-Project.html" class="portfolio-card"
+     style="background-image: url('/img/cartography.png');">
+    <span>Statistics with Geography Data (R)</span>
+  </a>
+
   
