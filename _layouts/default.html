@@ -70,10 +70,15 @@
     .sub-links a:hover {
       color: #007acc;
     }
+    /* ============================= */
     /* Portfolio Section */
+    /* ============================= */
+
     .portfolio-wrapper {
       margin-top: 30px;
     }
+    
+    /* Card container */
     .portfolio-card {
       display: inline-block;
       width: 400px;
@@ -88,9 +93,10 @@
       overflow: hidden;
       vertical-align: top;
     }
+    
+    /* Shared title styling */
     .portfolio-card span {
       position: absolute;
-      top: 0;
       width: 100%;
       padding: 12px 0;
       background: rgba(0, 0, 0, 0.6);
@@ -98,6 +104,18 @@
       font-weight: bold;
       transition: background 0.3s ease;
     }
+    
+    /* Title at top */
+    .portfolio-card.title-top span {
+      top: 0;
+    }
+    
+    /* Title at bottom */
+    .portfolio-card.title-bottom span {
+      bottom: 0;
+    }
+    
+    /* Hover effect */
     .portfolio-card:hover span {
       background: rgba(0, 0, 0, 0.8);
       text-decoration: underline;
