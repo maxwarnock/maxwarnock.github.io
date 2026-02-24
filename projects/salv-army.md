@@ -12,4 +12,4 @@
 </arcgis-embedded-map>
 {% endraw %}
 
-As part of my work as a GIS assistant with the Salvation Army Intermountain Division, I created an interactive map of the division using ArcGIS Pro and ArcPy. Input data from the division included basic data tables of Corps and Service Centers, and related information such as zip codes of service. From this, I wrote a Python script utilizing ArcPy tools to generate the map above. This map can be used for internal purposes for empolyees, and can also be integrated into the public facing website for anyone to search for resources by location more easily. 
+As part of my work as a GIS assistant with the Salvation Army Intermountain Division, I created an interactive map of the division using ArcGIS Pro and ArcPy. Input data from the division included basic data tables of Corps and Service Centers, and related information such as zip codes of service. From this, I wrote a Python script utilizing ArcPy tools to generate the map above. This map can be used for internal purposes for employees, and can also be integrated into the public facing website for anyone to search for resources by location more easily. 
