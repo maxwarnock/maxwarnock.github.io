@@ -1,3 +1,9 @@
+---
+layout: default
+title: GIS Portfolio
+show_profile: false
+---
+
 
 <div class="portfolio-wrapper">
 
