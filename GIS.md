@@ -14,12 +14,12 @@ show_profile: false
 **Final Project for GEOG 4303 - Spatial Programming**
 
 Project leader: Max Warnock    
-Team members: Quin Browder, Victoria Madden
+Team members: Quin Browder, Victoria Madden    
 [Link to the full research paper and code repository](https://github.com/maxwarnock/wui_mapping)
 
 
 <div style="float: right; text-align: center; margin-left: 10px; margin-bottom: 3px;">
-    <img src="img/oct-25-2024-wildland-urban-fire.png"
+    <img src="./img/oct-25-2024-wildland-urban-fire.png"
          alt="wui_noaa_image"
          width="200">
     <div style="font-size: 12px; color: #555;">Image credit: NOAA</div>
