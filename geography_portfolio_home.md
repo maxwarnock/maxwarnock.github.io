@@ -28,4 +28,9 @@ show_profile: false
     <span>Spatial Analysis of the Glaciers in Grant Teton National Park</span>
   </a>
 
+  <a href="/projects/cartography" class="portfolio-card"
+     style="background-image: url('/img/cartography.png');">
+    <span>Cartography Examples</span>
+  </a>
+
   
