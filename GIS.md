@@ -36,7 +36,7 @@ show_profile: false
 
   <a href="/projects/Group-Project.html" class="portfolio-card"
      style="background-image: url('/img/statistics.png');">
-    <span>Statistics with Geographic Data (R)</span>
+    <span>Statistics with Geographic Data (R){#statistics}</span>
   </a>
 
   
