@@ -8,7 +8,7 @@ show_profile: false
 <hr style="height: 4px; background-color: black; border: none; margin: 20px 0;">
 
 ## Habitat Suitability for the Great Basin Bristlecone Pine under Climate Change {#hab_suit}   
-3/17/26
+3/17/26   
 <a href="./projects/habitat-suitability.html" target="_blank" rel="noopener noreferrer" style="font-weight: bold;">Link to the project</a>   
 
 <hr style="height: 4px; background-color: black; border: none; margin: 20px 0;">
