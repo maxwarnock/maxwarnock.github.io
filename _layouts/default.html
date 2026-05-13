@@ -133,30 +133,30 @@
 
     <nav>
       <a href="{{ '/' | relative_url }}" class="{% if page.url == '/' %}active{% endif %}">Home</a>
-      <a href="{{ '/portfolio' | relative_url }}" class="{% if page.url contains 'portfolio' %}active{% endif %}">Earth Data Analytics Portfolio</a>
+      <a href="{{ '/pages/EDS-portfolio' | relative_url }}" class="{% if page.url contains 'EDS-portfolio' %}active{% endif %}">Earth Data Analytics Portfolio</a>
       
-      {% if page.url contains 'portfolio' %}
+      {% if page.url contains 'EDS-portfolio' %}
         <div class="sub-links" style="margin-left: 15px; font-size: 0.9em;">
-          <a href="{{ '/portfolio#hab_suit' | relative_url }}">Habitat Suitability Mapping</a>
-          <a href="{{ '/portfolio#kmeans' | relative_url }}">Landcover Classification</a>
-          <a href="{{ '/portfolio#asthma' | relative_url }}">Urban Green Space and Asthma</a>
-          <a href="{{ '/portfolio#redstart' | relative_url }}">Multi-year Migration Mapping</a>
-          <a href="{{ '/portfolio#ndvi' | relative_url }}">NDVI Analysis</a>
-          <a href="{{ '/portfolio#migration' | relative_url }}">Oriole Migration</a>
-          <a href="{{ '/portfolio#climate' | relative_url }}">Aspen Climate Analysis</a>
-          <a href="{{ '/portfolio#htmlmaps' | relative_url }}">HTML Mapping</a>
+          <a href="{{ '/EDS-portfolio#hab_suit' | relative_url }}">Habitat Suitability Mapping</a>
+          <a href="{{ '/EDS-portfolio#kmeans' | relative_url }}">Landcover Classification</a>
+          <a href="{{ '/EDS-portfolio#asthma' | relative_url }}">Urban Green Space and Asthma</a>
+          <a href="{{ '/EDS-portfolio#redstart' | relative_url }}">Multi-year Migration Mapping</a>
+          <a href="{{ '/EDS-portfolio#ndvi' | relative_url }}">NDVI Analysis</a>
+          <a href="{{ '/EDS-portfolio#migration' | relative_url }}">Oriole Migration</a>
+          <a href="{{ '/EDS-portfolio#climate' | relative_url }}">Aspen Climate Analysis</a>
+          <a href="{{ '/EDS-portfolio#htmlmaps' | relative_url }}">HTML Mapping</a>
         </div>
       {% endif %}
 
-      <a href="{{ '/GIS' | relative_url }}" class="{% if page.url contains 'GIS' %}active{% endif %}">GIS Portfolio</a>
+      <a href="{{ '/pages/GIS-portfolio' | relative_url }}" class="{% if page.url contains 'GIS' %}active{% endif %}">GIS Portfolio</a>
 
       {% if page.url contains 'GIS' %}
         <div class="sub-links" style="margin-left: 15px; font-size: 0.9em;">
-          <a href="{{ '/GIS#wui' | relative_url }}">WUI Mapping</a>
-          <a href="{{ '/GIS#salvarmy' | relative_url }}">Salvation Army GIS Project</a>
-          <a href="{{ '/GIS#remote-sensing' | relative_url }}">Remote Sensing Projects</a>
-          <a href="{{ '/GIS#cartography' | relative_url }}">Cartography Examples</a>
-          <a href="{{ '/GIS#statistics' | relative_url }}">Statistics Project</a>
+          <a href="{{ '/GIS-portfolio#wui' | relative_url }}">WUI Mapping</a>
+          <a href="{{ '/GIS-portfolio#salvarmy' | relative_url }}">Salvation Army GIS Project</a>
+          <a href="{{ '/GIS-portfolio#remote-sensing' | relative_url }}">Remote Sensing Projects</a>
+          <a href="{{ '/GIS-portfolio#cartography' | relative_url }}">Cartography Examples</a>
+          <a href="{{ '/GIS-portfolio#statistics' | relative_url }}">Statistics Project</a>
         </div>
       {% endif %}
     </nav>
