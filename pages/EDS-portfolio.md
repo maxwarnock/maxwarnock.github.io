@@ -9,26 +9,26 @@ show_profile: false
 
 ## Habitat Suitability for the Great Basin Bristlecone Pine under Climate Change {#hab_suit}   
 3/17/26   
-<a href="./projects/habitat_suitability.html" target="_blank" rel="noopener noreferrer" style="font-weight: bold;">Link to the project</a>   
+<a href="https://maxwarnock.github.io/projects/habitat_suitability.html" target="_blank" rel="noopener noreferrer" style="font-weight: bold;">Link to the project</a>   
 
 <hr style="height: 4px; background-color: black; border: none; margin: 20px 0;">
 
 ## Land Cover Classification of the Cache la Poudre River Watershed in Northern Colorado {#kmeans}   
 2/19/26   
-<a href="./projects/clustering-portfolio-post.html" target="_blank" rel="noopener noreferrer" style="font-weight: bold;">Link to the project</a>   
+<a href="https://maxwarnock.github.io/projects/clustering-portfolio-post.html" target="_blank" rel="noopener noreferrer" style="font-weight: bold;">Link to the project</a>   
 
 <hr style="height: 4px; background-color: black; border: none; margin: 20px 0;">
 
 ## Urban Greenspace and Asthma Prevalence in Columbus, Ohio in 2023 {#asthma}
 2/3/26   
-<a href="./projects/columbus-asthma.html" target="_blank" rel="noopener noreferrer" style="font-weight: bold;">Link to the project</a>
+<a href="https://maxwarnock.github.io/projects/columbus-asthma.html" target="_blank" rel="noopener noreferrer" style="font-weight: bold;">Link to the project</a>
 
 <hr style="height: 4px; background-color: black; border: none; margin: 20px 0;">
 
 ## Analysis of the Migration Range of the American Redstart (Setophaga ruticilla) from 2004 to 2024 {#redstart}
 12/10/25
 
-**[Link to my complete analysis, Python code, and repository](./projects/migration_download_steps.md)**
+**[Link to my complete analysis, Python code, and repository](https://maxwarnock.github.io/projects/migration_download_steps.md)**
 
 <p align="justify">
   <img src="https://www.allaboutbirds.org/guide/assets/og/75237001-1200px.jpg" alt="Redstart" align="right" width="350" style="margin-left: 10px; margin-bottom: 3px;">
@@ -105,7 +105,7 @@ Y. Malhi, O. L. Phillips, Wolfgang Cramer, Alberte Bondeau, Sibyll Schaphoff, Wo
 ## Analysis of Vegetation Health in Rocky Mountain National Park Using NDVI Data from 2000 to 2024 {#ndvi}
 11/22/25
 
-<a href="./img/ndvi_project.html" target="_blank" rel="noopener noreferrer" style="font-weight: bold;">Link to my complete analysis and Python code</a>
+<a href="https://maxwarnock.github.io/img/ndvi_project.html" target="_blank" rel="noopener noreferrer" style="font-weight: bold;">Link to my complete analysis and Python code</a>
 
 **Introduction**    
 Rocky Mountain National Park (RMNP) in Colorado is known for its impressive mountains, forests, alpine landscapes, and wildlife. While there are many important ecological features in the park, pine forests are especially important for a variety of reasons. Pine trees in the park help to reduce erosion, regulate temperatures, and provide important habitat for many birds and animals (Colorado State Forest Service). However, in recent decades, these trees have been under threat from pine bark beetles and wildfires. To analyse the impact of these threats, I will be using the Normalized Difference Vegetation Index (NDVI) from the timeframe of 2000 to 2024. This index measures "greenness" of vegetation using remotely sensed data, which helps to quantify vegetation health.
