@@ -66,15 +66,15 @@ I will be plotting occurrence (sightings of Redstarts) data within ecoregions to
   grid-template-columns: 1fr 1fr;
   gap: 10px;
 ">
-  <iframe src="img/redstart-migration-2004.html" style="width: 100%; height: 370px; border:none;"></iframe>
-  <iframe src="img/redstart-migration-2009.html" style="width: 100%; height: 370px; border:none;"></iframe>
-  <iframe src="img/redstart-migration-2014.html" style="width: 100%; height: 370px; border:none;"></iframe>
-  <iframe src="img/redstart-migration-2019.html" style="width: 100%; height: 370px; border:none;"></iframe>
+  <iframe src="https://maxwarnock.github.io/img/redstart-migration-2004.html" style="width: 100%; height: 370px; border:none;"></iframe>
+  <iframe src="https://maxwarnock.github.io/img/redstart-migration-2009.html" style="width: 100%; height: 370px; border:none;"></iframe>
+  <iframe src="https://maxwarnock.github.io/img/redstart-migration-2014.html" style="width: 100%; height: 370px; border:none;"></iframe>
+  <iframe src="https://maxwarnock.github.io/img/redstart-migration-2019.html" style="width: 100%; height: 370px; border:none;"></iframe>
 </div>
 
 **Figure 1:** Maps showing the month-by-month migration patterns of the American Redstart for years 2004, 2009, 2014, 2019. Density of observations is represented by the blue color scale. 
 
-<embed type="text/html" src="/img/redstart-migration-years.html" width="800" height="650">
+<embed type="text/html" src="https://maxwarnock.github.io/img/redstart-migration-years.html" width="800" height="650">
 
 **Figure 2:** Map showing the entire range of the American Redstart for the years of 2004, 2009, 2014, 2019, and 2024. Density of observations for the entire year is represented by the blue color scale. Yearly density values were calculated by taking the sum of monthly normalized occurrence values. See my download-200X.ipynb files in my repository for a full explaination of normalization steps.
 
