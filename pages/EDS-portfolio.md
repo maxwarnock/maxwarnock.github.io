@@ -105,7 +105,7 @@ Y. Malhi, O. L. Phillips, Wolfgang Cramer, Alberte Bondeau, Sibyll Schaphoff, Wo
 ## Analysis of Vegetation Health in Rocky Mountain National Park Using NDVI Data from 2000 to 2024 {#ndvi}
 11/22/25
 
-<a href="https://maxwarnock.github.io/img/ndvi_project.html" target="_blank" rel="noopener noreferrer" style="font-weight: bold;">Link to my complete analysis and Python code</a>
+<a href="https://maxwarnock.github.io/projects/ndvi_project.html" target="_blank" rel="noopener noreferrer" style="font-weight: bold;">Link to my complete analysis and Python code</a>
 
 **Introduction**    
 Rocky Mountain National Park (RMNP) in Colorado is known for its impressive mountains, forests, alpine landscapes, and wildlife. While there are many important ecological features in the park, pine forests are especially important for a variety of reasons. Pine trees in the park help to reduce erosion, regulate temperatures, and provide important habitat for many birds and animals (Colorado State Forest Service). However, in recent decades, these trees have been under threat from pine bark beetles and wildfires. To analyse the impact of these threats, I will be using the Normalized Difference Vegetation Index (NDVI) from the timeframe of 2000 to 2024. This index measures "greenness" of vegetation using remotely sensed data, which helps to quantify vegetation health.
