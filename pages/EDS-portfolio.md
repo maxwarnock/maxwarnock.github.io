@@ -172,7 +172,7 @@ After downloading the data, there are several steps necessary to plot the data g
 **Normalization**   
 The goal of this analysis is not only to plot geographically, but to also represent density of bird observations using a color gradient. The goal of the normalization step is to remove systematic differences such as some months have more sampling because more birdwatchers are outside, and some regions being more heavily surveyed because more birdwatchers live there.
   
-<embed type="text/html" src="https://maxwarnock.github.io/projects/oriole=migration/baltimore-oriole-migration.html" width="800" height="650">
+<embed type="text/html" src="https://maxwarnock.github.io/projects/oriole-migration/baltimore-oriole-migration.html" width="800" height="650">
 
 **Results and Analysis**   
 According to the interative plot above, the Baltimore Oriole spends the coldest winter months (December/January) in warmer climates with ecoregions with dense observations in South and Central America. Surprisingly, there are also less dense ecoregions with Orioles along the East Coast of North America, extending into Canada during the coldest months. This suggests that while Orioles may prefer the warmer climates of the South, they can still tolorate the colder winter weather along the East Coast. There are also observations of Orioles on the Carribean islands in most months except for summer, suggesting that Orioles are very capable of migrating across fairly large water bodies. 
@@ -189,7 +189,7 @@ These results align closely with maps and information provided by the [Cornell L
 
 **Introduction**   
 Aspen Colorado is a popular destination for winter sports, known for its pristine powder which is great for skiing and snowboarding. Since the economy of Aspen is so dependent on low winter temperatures and good snow conditions, I wanted to determine if there have been any trends in Aspen's climate over the last several decades.  
-<img src="img/Maroon_Bells.jpg" alt="Maroon Bells" width="400">   
+<img src="https://maxwarnock.github.io/img/Maroon_Bells.jpg" alt="Maroon Bells" width="400">   
 *Photo credit: https://commons.wikimedia.org/wiki/User:Rhododendrites*   
 To research this, I searched for weather station data in Aspen available from the [Global Historical Climatology Network daily (GHCNd)](https://www.ncdc.noaa.gov/cdo-web/datasets), provided by NOAA's [National Centers for Environmental Information (NCEI)](https://www.ncei.noaa.gov/access). I used station ASPEN 1 SW, CO US, which has 99% daily temperature summary data coverage from 1980 to present. According to [NASA](https://science.nasa.gov/climate-change/what-is-climate-change/), a 30 year timespan is required to observe any meaningful change in climate, while timespans less than this simply show variability in weather patterns. The station I chose has a 45 year timespan of consistent data coverage, meaning that this timespan is long enough to observe meaningful changes in climate. 
 
