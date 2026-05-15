@@ -5,7 +5,7 @@ show_profile: true
 
 <style>
 body {
-  background-image: url('https://maxwarnock.github.io/img/topo-map.png');
+  background-image: url('https://maxwarnock.github.io/img/topomap.png');
   background-repeat: repeat;
   background-attachment: fixed;
   background-size: auto;
