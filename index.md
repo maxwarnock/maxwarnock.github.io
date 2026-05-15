@@ -10,6 +10,7 @@ body {
   background-attachment: fixed;
   background-size: auto;
   color: #333;
+  font-size: 18px;
 }
 </style>
 
