@@ -111,7 +111,7 @@ Y. Malhi, O. L. Phillips, Wolfgang Cramer, Alberte Bondeau, Sibyll Schaphoff, Wo
 Rocky Mountain National Park (RMNP) in Colorado is known for its impressive mountains, forests, alpine landscapes, and wildlife. While there are many important ecological features in the park, pine forests are especially important for a variety of reasons. Pine trees in the park help to reduce erosion, regulate temperatures, and provide important habitat for many birds and animals (Colorado State Forest Service). However, in recent decades, these trees have been under threat from pine bark beetles and wildfires. To analyse the impact of these threats, I will be using the Normalized Difference Vegetation Index (NDVI) from the timeframe of 2000 to 2024. This index measures "greenness" of vegetation using remotely sensed data, which helps to quantify vegetation health.
 
 <p align="justify">
-  <img src="img/RMNP_Photo.jpg" alt="RMNP" align="right" width="250" style="margin-left: 10px; margin-bottom: 3px;">
+  <img src="https://maxwarnock.github.io/img/RMNP_Photo.jpg" alt="RMNP" align="right" width="250" style="margin-left: 10px; margin-bottom: 3px;">
 <strong>Pine Bark Beetles in Rocky Mountain National Park</strong><br>   
   According to the National Park Service, there are 17 native species of pine bark beetles common in the park, and for decades, periodic outbreaks were relatively common but of small scale. Pine bark beetle populations are affected by winter temperatures, with consistent periods of low temperatures needed to kill off beetles and prevent their populations for growing too rapidly. However, warmer average temperatures in the park in recent decades have allowed beetle populations to dramatically increase, with a peak in severity around 2009 when a large percentage of trees in the park were killed (<a href="https://www.nps.gov/romo/learn/nature/mtn_pine_beetle_background.htm"
     target="_blank"
@@ -130,13 +130,13 @@ To analyze the impacts of pine beetles and wildfires, I will be using NDVI data 
 I will be using Moderate Resolution Imaging Spectroradiometer (MODIS) NDVI data downloaded from [NASA's EarthData catalog](https://www.earthdata.nasa.gov/). Specifically, I will be downloading via NASA's Application for Extracting and Exploring Analysis Ready Samples [(AppEEARS)](https://appeears.earthdatacloud.nasa.gov/explore) using the earthpy package. This will allow me to access the data quickly in Github Codespaces. 
 
 **Results**    
-<img src="img/NDVI_compare_2000vs2024.png" alt="NDVI_Compare" width="800">  
+<img src="https://maxwarnock.github.io/img/NDVI_compare_2000vs2024.png" alt="NDVI_Compare" width="800">  
 **Figure 1:** These side-by-side maps compare NDVI in 2000 vs. 2024. Darker greens represent healthier vegetation, whereas whites/pinks represent less healthy vegetation. 
 
 <embed type="text/html" src="/img/ndvi_changes.html" width="720" height="720">     
 **Figure 2:** This map shows change in NDVI values for the two date slices. I subtracted the earlier date slice (2000-2012) from the more recent date slice (2012-2024). The result shows large areas of pink which indicates a decrease in vegetation health over the time period. There are also some green areas which indicate an increase in vegetation health over the time period. Overall, it's not surprising to see a decrease in NDVI values due to the impacts from pine beetles and wildfires, as described above.
 
-<img src="img/NDVI_trend.png" alt="NDVI_trend" width="800">  
+<img src="https://maxwarnock.github.io/img/NDVI_trend.png" alt="NDVI_trend" width="800">  
 **Figure 3:** Plot showing mean NDVI values from 2000 to 2024 inside RMNP with a linear regression trendline. The slope of the trendline is -0.00308, and has a clear negative trend on the plot, meaning that NDVI values have decreased in the park over the study period. 
 
 
@@ -145,10 +145,10 @@ I will be using Moderate Resolution Imaging Spectroradiometer (MODIS) NDVI data 
 ## Study of Annual Migration Patterns of the Baltimore Oriole (Icterus galbula) {#migration}
 10/29/25  
 
-<a href="./img/baltimore-oriole-migration-notebook" target="_blank" rel="noopener noreferrer" style="font-weight: bold;">Link to my complete analysis and Python code</a>
+<a href="https://maxwarnock.github.io/projects/oriole-migration/baltimore-oriole-migration-notebook" target="_blank" rel="noopener noreferrer" style="font-weight: bold;">Link to my complete analysis and Python code</a>
 
 <p align="justify">
-  <img src="img/baltimore-oriole-image.jpg" alt="Baltimore Oriole" align="left" width="250" style="margin-right: 10px; margin-bottom: 3px;">
+  <img src="https://maxwarnock.github.io/img/baltimore-oriole-image.jpg" alt="Baltimore Oriole" align="left" width="250" style="margin-right: 10px; margin-bottom: 3px;">
 <strong>Introduction</strong><br>   
   The Baltimore Oriole (Icterus galbula) is a colorful migratory bird found throughout the Eastern/Central part of North and Central America. The male has bright orange and black plummage which makes it easy to spot, while the female plummage is only slightly less brilliant. Like many species, the Baltimore Oriole spends the winters in the warmer climates of Central American, and migrates north during the summer (<a href="https://www.allaboutbirds.org/guide/Baltimore_Oriole/overview"
     target="_blank"
@@ -172,7 +172,7 @@ After downloading the data, there are several steps necessary to plot the data g
 **Normalization**   
 The goal of this analysis is not only to plot geographically, but to also represent density of bird observations using a color gradient. The goal of the normalization step is to remove systematic differences such as some months have more sampling because more birdwatchers are outside, and some regions being more heavily surveyed because more birdwatchers live there.
   
-<embed type="text/html" src="/img/baltimore-oriole-migration.html" width="800" height="650">
+<embed type="text/html" src="https://maxwarnock.github.io/projects/oriole=migration/baltimore-oriole-migration.html" width="800" height="650">
 
 **Results and Analysis**   
 According to the interative plot above, the Baltimore Oriole spends the coldest winter months (December/January) in warmer climates with ecoregions with dense observations in South and Central America. Surprisingly, there are also less dense ecoregions with Orioles along the East Coast of North America, extending into Canada during the coldest months. This suggests that while Orioles may prefer the warmer climates of the South, they can still tolorate the colder winter weather along the East Coast. There are also observations of Orioles on the Carribean islands in most months except for summer, suggesting that Orioles are very capable of migrating across fairly large water bodies. 
