@@ -9,6 +9,7 @@ body {
   background-repeat: repeat;
   background-attachment: fixed;
   background-size: auto;
+  color: #333;
 }
 </style>
 
