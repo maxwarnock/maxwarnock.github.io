@@ -3,6 +3,25 @@ layout: default
 show_profile: true
 ---
 
+<style>
+body {
+  background-image: url('https://maxwarnock.github.io/img/topo-map.png');
+  background-repeat: repeat;
+  background-attachment: fixed;
+  background-size: auto;
+}
+
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  background-color: rgba(255, 255, 255, 0.6);
+  z-index: 0;
+  pointer-events: none;
+}
+</style>
+
+
 **Biography**  
 
 I'm a student in the Earth Data Analytics Graduate Certificate Program at the University of Colorado Boulder's Earth Lab. I recently graduated from CU Boulder with two bachelors degrees in Geography and Music. During my Geography degree, I took classes focusing on GIS, remote sensing, cartography, environmental science, human and bio-geography, math, statistics, climate, and weather. I'm currently looking for research topics and opportunities to potentially pursue graduate school in geography. Check out some of my projects below!
