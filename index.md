@@ -13,7 +13,7 @@ body {
 }
 </style>
 
-<p style="font-size: 18px;">I'm a student in the Earth Data Analytics Graduate Certificate Program at the University of Colorado Boulder's Earth Lab. I recently graduated from CU Boulder with two bachelors degrees in Geography and Music. During my Geography degree, I took classes focusing on GIS, remote sensing, cartography, environmental science, human and bio-geography, math, statistics, climate, and weather. My goal is to leverage these skills to make positive contributions for the environment and society. Check out my recent work in the portfolios below!</p>
+<p style="font-size: 18px;">I'm an aspiring GIS researcher, cartographer, and environmental scientist with a passion for Earth data. I've worked on numerous projects focusing on ecosystem and land-use monitoring, predictive modeling, and attribute and uncertainty mapping. Currently, I'm a student with EarthLab at CU Boulder, where I also completed a bachelor's degree in Geography. My goal is to leverage these skills to make positive contributions for society and the environment. Check out my recent work in the portfolios below!</p>
 
 
 <div class="portfolio-wrapper">
