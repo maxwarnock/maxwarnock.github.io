@@ -13,7 +13,7 @@ body {
 }
 </style>
 
-<p style="font-size: 18px;">I'm an aspiring GIS researcher, cartographer, and environmental scientist with a passion for Earth data. I've worked on numerous projects focusing on ecosystem and land-use monitoring, predictive modeling, and attribute and uncertainty mapping. Currently, I'm a student with EarthLab at CU Boulder, where I also completed a bachelor's degree in Geography. My goal is to leverage these skills to make positive contributions for society and the environment. Check out my recent work in the portfolios below!</p>
+<p style="font-size: 18px; max-width: 650px;">I'm an aspiring GIS researcher, cartographer, and environmental scientist with a passion for Earth data. I've worked on numerous projects focusing on ecosystem and land-use monitoring, predictive modeling, and attribute and uncertainty mapping. Currently, I'm a student with EarthLab at CU Boulder, where I also completed a bachelor's degree in Geography. My goal is to leverage these skills to make positive contributions for society and the environment. Check out my recent work in the portfolios below!</p>
 
 
 <div class="portfolio-wrapper">
