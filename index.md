@@ -13,7 +13,7 @@ body {
 }
 </style>
 
-<div style="max-width: 650px; margin: 0 auto 16px auto; font-size: 28px; font-weight: bold; background: white; padding: 24px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+<div style="position: fixed; top: 0; left: 0; width: 100%; background: white; padding: 16px 32px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); font-size: 28px; font-weight: bold; z-index: 1000;">
 
 GIS and Earth Data Portfolio
 
