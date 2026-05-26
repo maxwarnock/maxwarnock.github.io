@@ -41,22 +41,44 @@
       margin-top: 20px;
     }
     nav a {
-      display: block;          /* separate lines */
+      display: block;
       margin: 8px 0;
       text-decoration: none;
-      font-weight: bold;       /* bold by default */
+      font-weight: bold;
       color: #333;
     }
     nav a.active {
-      color: #007acc;          /* active page highlighted */
+      color: #007acc;
     }
     nav a:hover {
       color: #005f99;
     }
     main {
       flex: 1;
-      padding: 20px;
+      padding: 0;
       margin-left: 250px;
+    }
+    .top-ribbon {
+      position: fixed;
+      top: 0;
+      left: 250px;
+      width: calc(100% - 250px);
+      background: white;
+      padding: 16px 32px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+      font-size: 28px;
+      font-weight: bold;
+      z-index: 999;
+    }
+    .main-content {
+      padding: 20px;
+      margin-top: 80px;
+    }
+    @media (max-width: 768px) {
+      .top-ribbon {
+        left: 0;
+        width: 100%;
+      }
     }
     html {
       scroll-behavior: smooth;
@@ -70,6 +92,7 @@
     .sub-links a:hover {
       color: #007acc;
     }
+
     /* ============================= */
     /* Portfolio Section */
     /* ============================= */
@@ -77,8 +100,6 @@
     .portfolio-wrapper {
       margin-top: 30px;
     }
-    
-    /* Card container */
     .portfolio-card {
       display: inline-block;
       width: 400px;
@@ -93,8 +114,6 @@
       overflow: hidden;
       vertical-align: top;
     }
-    
-    /* Shared title styling */
     .portfolio-card span {
       position: absolute;
       width: 100%;
@@ -104,18 +123,12 @@
       font-weight: bold;
       transition: background 0.3s ease;
     }
-    
-    /* Title at top */
     .portfolio-card.title-top span {
       top: 0;
     }
-    
-    /* Title at bottom */
     .portfolio-card.title-bottom span {
       bottom: 0;
     }
-    
-    /* Hover effect */
     .portfolio-card:hover span {
       background: rgba(0, 0, 0, 0.8);
       text-decoration: underline;
@@ -160,13 +173,14 @@
         </div>
       {% endif %}
     </nav>
-
   </aside>
 
   <main>
-    {{ content }}
+    <div class="top-ribbon">{{ site.title }}</div>
+    <div class="main-content">
+      {{ content }}
+    </div>
   </main>
 </body>
 </html>
-
 
