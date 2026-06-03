@@ -4,11 +4,10 @@ show_profile: true
 ---
 <style>
 body {
-  background-image: url('https://maxwarnock.github.io/img/topo-map.png');
+  background-image: url('https://maxwarnock.github.io/img/rem_edit_med_res.png');
   background-repeat: repeat;
   background-attachment: fixed;
   background-size: auto;
-  color: #333;
 }
 </style>
 
