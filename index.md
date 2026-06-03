@@ -9,6 +9,28 @@ body {
   background-attachment: fixed;
   background-size: cover;
 }
+
+.project-card {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  max-width: 700px;
+  margin: 20px 0 0 20px;
+  font-size: 16px;
+  background: rgba(255, 255, 255, 0.10);
+  padding: 24px;
+  color: white;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.20);
+  text-decoration: none;
+  transition: background 0.2s ease, box-shadow 0.2s ease;
+}
+
+.project-card:hover {
+  background: rgba(255, 255, 255, 0.22);
+  box-shadow: 0 6px 20px rgba(0,0,0,0.35);
+  color: white;
+}
 </style>
 
 <div style="max-width: 650px; margin: 20px 0 0 20px; font-size: 18px; background: rgba(255, 255, 255, 0.10); color: white; padding: 24px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.20);">
@@ -22,6 +44,4 @@ I'm an aspiring GIS specialist and environmental scientist with an interest in E
   </div>
   <img src="/img/hab_suit_cover.png" alt="project thumbnail" style="width: 120px; height: 120px; object-fit: cover; border-radius: 12px; flex-shrink: 0;">
 </a>
-
-
 
