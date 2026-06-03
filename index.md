@@ -4,10 +4,10 @@ show_profile: true
 ---
 <style>
 body {
-  background-image: url('https://maxwarnock.github.io/img/rem_edit_med_res.png');
+  background-image: url('https://maxwarnock.github.io/img/rem.png');
   background-repeat: repeat;
   background-attachment: fixed;
-  background-size: auto;
+  background-size: cover;
 }
 </style>
 
