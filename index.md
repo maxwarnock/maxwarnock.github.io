@@ -6,7 +6,7 @@ show_profile: true
 body {
   background-image: url('https://maxwarnock.github.io/img/rem.png');
   background-repeat: repeat;
-  background-attachment: scroll;
+  background-attachment: fixed;
   background-size: cover;
 }
 </style>
