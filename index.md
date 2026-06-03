@@ -17,10 +17,10 @@ I'm an aspiring GIS specialist and environmental scientist with an interest in E
 
 <a href="https://maxwarnock.github.io/projects/habitat_suitability.html" target="_blank" rel="noopener noreferrer" class="project-card">
   <div style="flex: 1;">
-    <p style="font-weight: bold;">Habitat Suitability for the Great Basin Bristlecone Pine under Climate Change</p>
-    <p>3/17/26</p>
+    <div style="font-weight: bold; margin-bottom: 8px;">Habitat Suitability for the Great Basin Bristlecone Pine under Climate Change</div>
+    <div>3/17/26</div>
   </div>
-  <img src="/img/your-image.png" alt="project thumbnail" style="width: 120px; height: 120px; object-fit: cover; border-radius: 12px; flex-shrink: 0;">
+  <img src="/img/hab_suit_cover.png" alt="project thumbnail" style="width: 120px; height: 120px; object-fit: cover; border-radius: 12px; flex-shrink: 0;">
 </a>
 
 
