@@ -1,7 +1,4 @@
----
-layout: default
-show_profile: false
----
+
 
 ## Analysis of the Migration Range of the American Redstart (Setophaga ruticilla) from 2004 to 2024 {#redstart}
 12/10/25
