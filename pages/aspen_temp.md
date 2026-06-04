@@ -2,6 +2,8 @@
 ## Annual Temperatures in Aspen Increasing by 0.0061 °C per year on Average Since 1980 {#climate}
 10/1/25
 
+<a href="https://maxwarnock.github.io/projects/Aspen_Climate_data.html" target="_blank" rel="noopener noreferrer" style="font-weight: bold;">Link to my complete analysis and Python code</a>
+
 **Introduction**   
 Aspen Colorado is a popular destination for winter sports, known for its pristine powder which is great for skiing and snowboarding. Since the economy of Aspen is so dependent on low winter temperatures and good snow conditions, I wanted to determine if there have been any trends in Aspen's climate over the last several decades.  
 <img src="https://maxwarnock.github.io/img/Maroon_Bells.jpg" alt="Maroon Bells" width="400">   
@@ -13,5 +15,4 @@ The raw data has daily average temperatures, and I wanted annual average tempera
 <embed type="text/html" src="/img/aspen_temp_interactive.html" width="720" height="320"> 
 This graph shows an increase in average annual temperature in Aspen, CO of 0.0061 °C per year since 1980. Over 45 years, this is a total increase of 0.2745 °C.   
 
-<a href="./img/Aspen_Climate_data.html" target="_blank" rel="noopener noreferrer" style="font-weight: bold;">Link to my complete analysis and Python code</a>
 
