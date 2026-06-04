@@ -53,8 +53,11 @@ I'm an aspiring GIS specialist and environmental scientist with an interest in E
 
 <a href="https://maxwarnock.github.io/pages/aspen_temp" target="_blank" rel="noopener noreferrer" class="project-card"><span style="flex: 1;"><span style="font-weight: bold; margin-bottom: 8px; display: block;">Climate Analysis of Aspen, Colorado Using Temperature Data from 1980 to 2025</span></span><img src="/img/aspen_cover.png" alt="project thumbnail" style="width: 120px; height: 120px; object-fit: cover; border-radius: 12px; flex-shrink: 0;"></a>
 
-<a href="https://sites.google.com/colorado.edu/geog4093finalproject/home?authuser=1" target="_blank" rel="noopener noreferrer" class="project-card"><span style="flex: 1;"><span style="font-weight: bold; margin-bottom: 8px; display: block;"> Remotely Sensing Glacial Retreat and Snowpack Levels in Saas Fee, Switzerland</span></span><img src="/img/glacier_change.gif" alt="project thumbnail" style="width: 120px; height: 120px; object-fit: cover; border-radius: 12px; flex-shrink: 0;"></a>
+<a href="https://sites.google.com/colorado.edu/geog4093finalproject/home?authuser=1" target="_blank" rel="noopener noreferrer" class="project-card"><span style="flex: 1;"><span style="font-weight: bold; margin-bottom: 8px; display: block;">Remotely Sensing Glacial Retreat and Snowpack Levels in Saas Fee, Switzerland</span></span><img src="/img/glacier_change.gif" alt="project thumbnail" style="width: 120px; height: 120px; object-fit: cover; border-radius: 12px; flex-shrink: 0;"></a>
 
+<a href="https://maxwarnock.github.io/projects/teton-glaciers" target="_blank" rel="noopener noreferrer" class="project-card"><span style="flex: 1;"><span style="font-weight: bold; margin-bottom: 8px; display: block;">Spatial Analysis of the Glaciers in Grant Teton National Park between 1994 to 2015</span></span><img src="/img/teton-glaciers.png" alt="project thumbnail" style="width: 120px; height: 120px; object-fit: cover; border-radius: 12px; flex-shrink: 0;"></a>
+
+<a href="https://maxwarnock.github.io/projects/cartography" target="_blank" rel="noopener noreferrer" class="project-card"><span style="flex: 1;"><span style="font-weight: bold; margin-bottom: 8px; display: block;">Cartography Examples</span></span><img src="/img/cartography.png" alt="project thumbnail" style="width: 120px; height: 120px; object-fit: cover; border-radius: 12px; flex-shrink: 0;"></a>
 
 
 
