@@ -47,4 +47,6 @@ I'm an aspiring GIS specialist and environmental scientist with an interest in E
 
 <a href="https://maxwarnock.github.io/pages/rmnp_ndvi" target="_blank" rel="noopener noreferrer" class="project-card"><span style="flex: 1;"><span style="font-weight: bold; margin-bottom: 8px; display: block;">Analysis of the Migration Range of the American Redstart (Setophaga ruticilla) from 2004 to 2024</span></span><img src="/img/rmnp_ndvi_cover.png" alt="project thumbnail" style="width: 120px; height: 120px; object-fit: cover; border-radius: 12px; flex-shrink: 0;"></a>
 
+<a href="https://maxwarnock.github.io/pages/oriole_migration" target="_blank" rel="noopener noreferrer" class="project-card"><span style="flex: 1;"><span style="font-weight: bold; margin-bottom: 8px; display: block;">Analysis of Annual Migration Patterns of the Baltimore Oriole (Icterus galbula)</span></span><img src="/img/oriole_cover.png" alt="project thumbnail" style="width: 120px; height: 120px; object-fit: cover; border-radius: 12px; flex-shrink: 0;"></a>
+
 
