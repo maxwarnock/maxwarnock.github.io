@@ -4,7 +4,7 @@ show_profile: true
 ---
 <style>
 body {
-  background-image: url('https://maxwarnock.github.io/img/rem.png');
+  background-image: url('https://maxwarnock.github.io/img/rem_for_website_low_res.png');
   background-repeat: repeat;
   background-attachment: fixed;
   background-size: cover;
