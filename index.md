@@ -42,3 +42,7 @@ I'm an aspiring GIS specialist and environmental scientist with an interest in E
 <a href="https://maxwarnock.github.io/projects/clustering-portfolio-post.html" target="_blank" rel="noopener noreferrer" class="project-card"><span style="flex: 1;"><span style="font-weight: bold; margin-bottom: 8px; display: block;">Land Cover Classification of the Cache la Poudre River Watershed in Northern Colorado</span></span><img src="/img/clustering_cover.png" alt="project thumbnail" style="width: 120px; height: 120px; object-fit: cover; border-radius: 12px; flex-shrink: 0;"></a>
 
 <a href="https://maxwarnock.github.io/projects/columbus-asthma.html" target="_blank" rel="noopener noreferrer" class="project-card"><span style="flex: 1;"><span style="font-weight: bold; margin-bottom: 8px; display: block;">Urban Greenspace and Asthma Prevalence in Columbus, Ohio in 2023</span></span><img src="/img/columbus_cover.png" alt="project thumbnail" style="width: 120px; height: 120px; object-fit: cover; border-radius: 12px; flex-shrink: 0;"></a>
+
+<a href="https://maxwarnock.github.io/pages/red-start-migration.md" target="_blank" rel="noopener noreferrer" class="project-card"><span style="flex: 1;"><span style="font-weight: bold; margin-bottom: 8px; display: block;">Analysis of the Migration Range of the American Redstart (Setophaga ruticilla) from 2004 to 2024</span></span><img src="/img/redstart_cover.png" alt="project thumbnail" style="width: 120px; height: 120px; object-fit: cover; border-radius: 12px; flex-shrink: 0;"></a>
+
+
