@@ -59,6 +59,7 @@ I'm an aspiring GIS specialist and environmental scientist with an interest in E
 
 <a href="https://maxwarnock.github.io/projects/cartography" target="_blank" rel="noopener noreferrer" class="project-card"><span style="flex: 1;"><span style="font-weight: bold; margin-bottom: 8px; display: block;">Cartography Examples</span></span><img src="/img/cartography.png" alt="project thumbnail" style="width: 120px; height: 120px; object-fit: cover; border-radius: 12px; flex-shrink: 0;"></a>
 
+<a href="https://maxwarnock.github.io/projects/Group-Project.html" target="_blank" rel="noopener noreferrer" class="project-card"><span style="flex: 1;"><span style="font-weight: bold; margin-bottom: 8px; display: block;"> Statistics with Geographic Data (R)</span></span><img src="/img/statistics.png" alt="project thumbnail" style="width: 120px; height: 120px; object-fit: cover; border-radius: 12px; flex-shrink: 0;"></a>
 
 
 
