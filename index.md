@@ -34,7 +34,7 @@ body {
 </style>
 
 <div style="max-width: 650px; margin: 20px 0 0 20px; font-size: 18px; background: rgba(255, 255, 255, 0.10); color: white; padding: 24px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.20);">
-I'm an aspiring GIS specialist and environmental scientist with an interest in Earth data. I'm particularly interested in projects relating to ecosystems, wildfires, hydrology, and land management. Currently, I'm a student with EarthLab at CU Boulder, where I also completed a bachelor's degree in Geography. Check out my recent work below!
+I'm an aspiring environmental scientist and GIS specialist with an interest in Earth data. My current research projects examine how environmental change affects ecosystems, the wildland-urban interface, hydrology, land management, and societal well-being. I also create interactive maps and dashboards to make my research more accessible and useful to a broader audience. I recently graduated with a bachelor's degree in Geography from CU Boulder, and I'm currently a student in the Earth Lab's professional certificate program. Check out my recent work below!
 </div>
 
 
