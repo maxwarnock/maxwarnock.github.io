@@ -37,6 +37,11 @@ cards, each linking to a project write-up in `projects/`.
 2. Add a square cover image to `img/`, named `<slug>_cover.png`.
 3. Add a card for it to the list in `index.md`.
 
+## Deploying
+
+Pushing to `main` triggers a GitHub Pages rebuild automatically; the live site
+updates a minute or two later.
+
 ## Notes
 
 - `projects/clustering-portfolio-post.html` is a large exported notebook and is
