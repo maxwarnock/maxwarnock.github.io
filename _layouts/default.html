@@ -40,22 +40,6 @@
       font-size: 14px;
       color: #555;
     }
-    nav {
-      margin-top: 20px;
-    }
-    nav a {
-      display: block;
-      margin: 8px 0;
-      text-decoration: none;
-      font-weight: bold;
-      color: #333;
-    }
-    nav a.active {
-      color: #007acc;
-    }
-    nav a:hover {
-      color: #005f99;
-    }
     main {
       grid-column: 2;
       padding: 0;
@@ -81,15 +65,6 @@
     html {
       scroll-behavior: smooth;
     }
-    .sub-links a {
-      font-weight: normal;
-      font-size: 0.9em;
-      color: #555;
-      margin-left: 10px;
-    }
-    .sub-links a:hover {
-      color: #007acc;
-    }
     .project-card {
       display: flex;
       align-items: center;
@@ -109,47 +84,6 @@
       background: rgba(255, 255, 255, 0.22);
       box-shadow: 0 6px 20px rgba(0,0,0,0.35);
       color: white;
-    }
-
-    /* ============================= */
-    /* Portfolio Section */
-    /* ============================= */
-
-    .portfolio-wrapper {
-      margin-top: 30px;
-    }
-    .portfolio-card {
-      display: inline-block;
-      width: 400px;
-      height: 400px;
-      margin: 15px;
-      background-size: cover;
-      background-position: center;
-      position: relative;
-      text-decoration: none;
-      color: white;
-      border-radius: 8px;
-      overflow: hidden;
-      vertical-align: top;
-    }
-    .portfolio-card span {
-      position: absolute;
-      width: 100%;
-      padding: 12px 0;
-      background: rgba(0, 0, 0, 0.6);
-      text-align: center;
-      font-weight: bold;
-      transition: background 0.3s ease;
-    }
-    .portfolio-card.title-top span {
-      top: 0;
-    }
-    .portfolio-card.title-bottom span {
-      bottom: 0;
-    }
-    .portfolio-card:hover span {
-      background: rgba(0, 0, 0, 0.8);
-      text-decoration: underline;
     }
 
     @media (max-width: 768px) {
@@ -173,38 +107,6 @@
 
     <h2>{{ site.title }}</h2>
     <p>{{ site.description }}</p>
-
-    <!--
-    <nav>
-      <a href="{{ '/' | relative_url }}" class="{% if page.url == '/' %}active{% endif %}">Home</a>
-      <a href="{{ '/pages/EDS-portfolio' | relative_url }}" class="{% if page.url contains 'EDS-portfolio' %}active{% endif %}">Earth Data Analytics Portfolio</a>
-      
-      {% if page.url contains 'EDS-portfolio' %}
-        <div class="sub-links" style="margin-left: 15px; font-size: 0.9em;">
-          <a href="{{ '/pages/EDS-portfolio#hab_suit' | relative_url }}">Habitat Suitability Mapping</a>
-          <a href="{{ '/pages/EDS-portfolio#kmeans' | relative_url }}">Landcover Classification</a>
-          <a href="{{ '/pages/EDS-portfolio#asthma' | relative_url }}">Urban Green Space and Asthma</a>
-          <a href="{{ '/pages/EDS-portfolio#redstart' | relative_url }}">Multi-year Migration Mapping</a>
-          <a href="{{ '/pages/EDS-portfolio#ndvi' | relative_url }}">NDVI Analysis</a>
-          <a href="{{ '/pages/EDS-portfolio#migration' | relative_url }}">Oriole Migration</a>
-          <a href="{{ '/pages/EDS-portfolio#climate' | relative_url }}">Aspen Climate Analysis</a>
-          <a href="{{ '/pages/EDS-portfolio#htmlmaps' | relative_url }}">HTML Mapping</a>
-        </div>
-      {% endif %}
-
-      <a href="{{ '/pages/GIS-portfolio' | relative_url }}" class="{% if page.url contains 'GIS' %}active{% endif %}">GIS Portfolio</a>
-
-      {% if page.url contains 'GIS' %}
-        <div class="sub-links" style="margin-left: 15px; font-size: 0.9em;">
-          <a href="{{ '/pages/GIS-portfolio#wui' | relative_url }}">WUI Mapping</a>
-          <a href="{{ '/pages/GIS-portfolio#salvarmy' | relative_url }}">Salvation Army GIS Project</a>
-          <a href="{{ '/pages/GIS-portfolio#remote-sensing' | relative_url }}">Remote Sensing Projects</a>
-          <a href="{{ '/pages/GIS-portfolio#cartography' | relative_url }}">Cartography Examples</a>
-          <a href="{{ '/pages/GIS-portfolio#statistics' | relative_url }}">Statistics Project</a>
-        </div>
-      {% endif %}
-    </nav>
-    -->
   </aside>
 
   <main>

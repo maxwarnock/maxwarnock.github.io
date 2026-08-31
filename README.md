@@ -18,23 +18,24 @@ Then open http://localhost:4000. The site rebuilds automatically as you edit.
 
 ## Layout
 
-| Path              | Contents                                                          |
-| ----------------- | ---------------------------------------------------------------- |
-| `index.md`        | Home page and the project card list                              |
-| `pages/`          | Section pages (`EDS-portfolio.md`, `GIS-portfolio.md`)           |
-| `projects/`       | Per-project write-ups and exported analysis notebooks (`.html`) |
-| `_layouts/`       | Page templates (`default.html`, `project.html`)                  |
-| `assets/css/`     | `style.scss` — imports the `jekyll-theme-minimal` theme          |
-| `img/`            | Photos, figures, card thumbnails (`*_cover.png`), and embeddable interactive plots |
-| `maps/`           | Cartography and coursework map exports                           |
-| `_config.yml`     | Site title, theme, sidebar description                           |
+The site is a single page: `index.md` holds the bio and a list of project
+cards, each linking to a project write-up in `projects/`.
+
+| Path          | Contents                                                            |
+| ------------- | ----------------------------------------------------------------- |
+| `index.md`    | Home page — bio and the project card list                          |
+| `projects/`   | Per-project write-ups (`.md`) and exported analysis notebooks (`.html`) |
+| `_layouts/`   | `default.html` — the sidebar + ribbon page shell                   |
+| `assets/css/` | `style.scss` — imports the `jekyll-theme-minimal` theme            |
+| `img/`        | Photos, figures, card thumbnails (`*_cover.png`), and embeddable interactive plots |
+| `maps/`       | Cartography and coursework map exports                             |
+| `_config.yml` | Site title, theme, sidebar description                             |
 
 ## Adding a project
 
-1. Add the write-up under `projects/`.
-2. Add a cover image to `img/` (square, named `<slug>_cover.png`).
-3. Add a card to `index.md` and, if relevant, a section to the matching
-   page in `pages/`.
+1. Add the write-up under `projects/` as `<slug>.md`.
+2. Add a square cover image to `img/`, named `<slug>_cover.png`.
+3. Add a card for it to the list in `index.md`.
 
 ## Notes
 
