@@ -198,7 +198,7 @@ The raw data has daily average temperatures, and I wanted annual average tempera
 <embed type="text/html" src="/img/aspen_temp_interactive.html" width="720" height="320"> 
 This graph shows an increase in average annual temperature in Aspen, CO of 0.0061 °C per year since 1980. Over 45 years, this is a total increase of 0.2745 °C.   
 
-<a href="./img/Aspen_Climate_data.html" target="_blank" rel="noopener noreferrer" style="font-weight: bold;">Link to my complete analysis and Python code</a>
+<a href="/projects/Aspen_Climate_data.html" target="_blank" rel="noopener noreferrer" style="font-weight: bold;">Link to my complete analysis and Python code</a>
 
 <hr style="height: 4px; background-color: black; border: none; margin: 20px 0;">
 
