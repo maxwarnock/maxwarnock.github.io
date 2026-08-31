@@ -1,5 +1,5 @@
 
-## Annual Temperatures in Aspen Increasing by 0.0061 °C per year on Average Since 1980 {#climate}
+## Annual Temperatures in Aspen Increasing by 0.0061 °C per year on Average Since 1980
 10/1/25
 
 <a href="https://maxwarnock.github.io/projects/Aspen_Climate_data.html" target="_blank" rel="noopener noreferrer" style="font-weight: bold;">Link to my complete analysis and Python code</a>

@@ -1,6 +1,6 @@
 
 
-## Analysis of the Migration Range of the American Redstart (Setophaga ruticilla) from 2004 to 2024 {#redstart}
+## Analysis of the Migration Range of the American Redstart (Setophaga ruticilla) from 2004 to 2024
 12/10/25
 
 **[Link to my complete analysis, Python code, and repository](https://maxwarnock.github.io/projects/redstart-migration/migration_download_steps)**

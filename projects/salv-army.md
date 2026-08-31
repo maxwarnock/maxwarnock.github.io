@@ -1,4 +1,4 @@
-## ArcGIS Maps for the Salvation Army Intermountain Division {#salvarmy}
+## ArcGIS Maps for the Salvation Army Intermountain Division
 
 {% raw %}
 <arcgis-embedded-map 

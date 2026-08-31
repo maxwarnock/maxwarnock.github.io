@@ -1,4 +1,4 @@
-# Cartography Examples {#cartography}
+# Cartography Examples
 
 <img src="/maps/Map_Layout_lab09.jpg" alt="portland1" width="1650">
 Population density maps of the Portland Tri-Metro area shown with different choropleth classification methods. Certain methods are useful for different data distributions. In this case, the quantile method shows the most difference between zones. 

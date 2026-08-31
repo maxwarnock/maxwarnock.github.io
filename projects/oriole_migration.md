@@ -1,4 +1,4 @@
-## Study of Annual Migration Patterns of the Baltimore Oriole (Icterus galbula) {#migration}
+## Study of Annual Migration Patterns of the Baltimore Oriole (Icterus galbula)
 10/29/25  
 
 <a href="https://maxwarnock.github.io/projects/oriole-migration/baltimore-oriole-migration-notebook" target="_blank" rel="noopener noreferrer" style="font-weight: bold;">Link to my complete analysis and Python code</a>

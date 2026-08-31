@@ -1,5 +1,5 @@
 
-## Analysis of Vegetation Health in Rocky Mountain National Park Using NDVI Data from 2000 to 2024 {#ndvi}
+## Analysis of Vegetation Health in Rocky Mountain National Park Using NDVI Data from 2000 to 2024
 11/22/25
 
 <a href="https://maxwarnock.github.io/projects/ndvi_project.html" target="_blank" rel="noopener noreferrer" style="font-weight: bold;">Link to my complete analysis and Python code</a>

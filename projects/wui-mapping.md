@@ -1,4 +1,4 @@
-## A Tool for Mapping Wildland Urban Interface {#wui}
+## A Tool for Mapping Wildland Urban Interface
 5/4/25    
 **Final Project for GEOG 4303 - Spatial Programming**
 
