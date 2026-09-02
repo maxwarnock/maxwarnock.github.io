@@ -35,22 +35,25 @@ body {
 .bg-credit {
   position: fixed;
   bottom: 6px;
-  right: 10px;
+  right: 8px;
   z-index: 1000;
   font-size: 11px;
   line-height: 1.3;
   text-align: right;
-  color: #9a9a9a;
-  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.35);
+  color: #b8b8b8;
+  background: rgba(0, 0, 0, 0.55);
+  padding: 3px 8px;
+  border-radius: 6px;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
 }
 
 .bg-credit a {
-  color: #9a9a9a;
+  color: #d6d6d6;
   text-decoration: underline;
 }
 
 .bg-credit a:hover {
-  color: #cfcfcf;
+  color: #ffffff;
 }
 </style>
 
