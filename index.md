@@ -31,6 +31,27 @@ body {
   box-shadow: 0 6px 20px rgba(0,0,0,0.35);
   color: white;
 }
+
+.bg-credit {
+  position: fixed;
+  bottom: 6px;
+  right: 10px;
+  z-index: 1000;
+  font-size: 11px;
+  line-height: 1.3;
+  text-align: right;
+  color: #9a9a9a;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.35);
+}
+
+.bg-credit a {
+  color: #9a9a9a;
+  text-decoration: underline;
+}
+
+.bg-credit a:hover {
+  color: #cfcfcf;
+}
 </style>
 
 <div style="max-width: 650px; margin: 20px 0 0 20px; font-size: 18px; background: rgba(255, 255, 255, 0.10); color: white; padding: 24px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.20);">
@@ -64,6 +85,5 @@ I'm an aspiring interdisciplinary environmental scientist and GIS specialist. My
 
 <a href="https://maxwarnock.github.io/projects/Group-Project.html" target="_blank" rel="noopener noreferrer" class="project-card"><span style="flex: 1;"><span style="font-weight: bold; margin-bottom: 8px; display: block;"> Statistics with Geographic Data (R)</span></span><img src="/img/statistics.png" alt="project thumbnail" style="width: 120px; height: 120px; object-fit: cover; border-radius: 12px; flex-shrink: 0;"></a>
 
-
-
+<div class="bg-credit">Background image - <a href="https://dancoecarto.com/creating-rems-in-qgis-the-idw-method" target="_blank" rel="noopener noreferrer">REM</a> of the Snake River, Wyoming. Created by Max Warnock</div>
 
