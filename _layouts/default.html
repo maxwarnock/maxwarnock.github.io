@@ -55,7 +55,9 @@
       position: fixed;
       top: 0;
       left: 290px;
-      width: calc(100% - 290px);
+      right: 0;
+      box-sizing: border-box;
+      gap: 16px;
       background: rgb(46, 40, 41);
       padding: 16px 32px;
       box-shadow: 0 4px 12px rgba(0,0,0,0.15);
@@ -72,6 +74,7 @@
       text-decoration: none;
     }
     .top-ribbon .nav-link {
+      white-space: nowrap;
       font-size: 20px;
       font-weight: normal;
       opacity: 0.85;
@@ -139,6 +142,14 @@
       main {
         grid-column: 1;
       }
+      .top-ribbon {
+        left: 0;
+        font-size: 20px;
+        padding: 12px 16px;
+      }
+      .top-ribbon .nav-link {
+        font-size: 16px;
+      }
     }
   </style>
 </head>
@@ -162,7 +173,7 @@
     </div>
   </main>
 
-  <div class="bg-credit">Background image - <a href="https://dancoecarto.com/creating-rems-in-qgis-the-idw-method" target="_blank" rel="noopener noreferrer">REM</a> of the Snake River, Wyoming. Created by Max Warnock in QGIS</div>
+  <div class="bg-credit">Background image - <a href="https://dancoecarto.com/creating-rems-in-qgis-the-idw-method" target="_blank" rel="noopener noreferrer">REM</a> of the Snake River, Wyoming<br>Created by Max Warnock in QGIS</div>
 </body>
 </html>
 
