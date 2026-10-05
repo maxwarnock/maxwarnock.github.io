@@ -3,13 +3,6 @@ layout: default
 show_profile: true
 ---
 <style>
-body {
-  background-image: url('https://maxwarnock.github.io/img/rem_for_website_low_res.png');
-  background-repeat: repeat;
-  background-attachment: fixed;
-  background-size: cover;
-}
-
 .project-card {
   display: flex;
   align-items: center;
@@ -30,30 +23,6 @@ body {
   background: rgba(255, 255, 255, 0.22);
   box-shadow: 0 6px 20px rgba(0,0,0,0.35);
   color: white;
-}
-
-.bg-credit {
-  position: fixed;
-  bottom: 6px;
-  right: 8px;
-  z-index: 1000;
-  font-size: 11px;
-  line-height: 1.3;
-  text-align: right;
-  color: #b8b8b8;
-  background: rgba(0, 0, 0, 0.55);
-  padding: 3px 8px;
-  border-radius: 6px;
-  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
-}
-
-.bg-credit a {
-  color: #d6d6d6;
-  text-decoration: underline;
-}
-
-.bg-credit a:hover {
-  color: #ffffff;
 }
 </style>
 
@@ -88,5 +57,4 @@ I'm interested in how environmental change affects land management, urban planni
 
 <a href="https://maxwarnock.github.io/projects/Group-Project.html" target="_blank" rel="noopener noreferrer" class="project-card"><span style="flex: 1;"><span style="font-weight: bold; margin-bottom: 8px; display: block;"> Statistics with Geographic Data (R)</span></span><img src="/img/statistics.png" alt="project thumbnail" style="width: 120px; height: 120px; object-fit: cover; border-radius: 12px; flex-shrink: 0;"></a>
 
-<div class="bg-credit">Background image - <a href="https://dancoecarto.com/creating-rems-in-qgis-the-idw-method" target="_blank" rel="noopener noreferrer">REM</a> of the Snake River, Wyoming. Created by Max Warnock</div>
 
