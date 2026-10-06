@@ -27,7 +27,7 @@ show_profile: true
 </style>
 
 <div style="max-width: 650px; margin: 20px 0 0 20px; font-size: 18px; background: rgba(255, 255, 255, 0.10); color: white; padding: 24px; border-radius: 8px; box-shadow: 0 4px 11px rgba(0,0,0,0.20);">
-I'm interested in environmental research using GIS and earth data to answer questions for topics ranging from urban planning and land management, to ecosystem health, soils, hydrology, species migration, and more. Check out my recent work below!
+I'm interested in environmental research using GIS and Earth data to answer questions for topics ranging from urban planning and land management, to ecosystem health, soils, hydrology, species migration, and more. Check out my recent work below!
 </div>
 
 
