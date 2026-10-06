@@ -60,7 +60,7 @@ permalink: /about/
 
 <div class="about-row">
 <div class="about-card">
-<p>I'm an early-career GIS analyst interested in environmental planning and earth science, using spatial data and remote sensing to understand how communities and landscapes change. I recently completed a B.A. in Geography from the University of Colorado Boulder and a graduate certificate in Earth Data Analytics from CU's Earth Lab.</p>
+<p>I'm an early-career GIS analyst interested in environmental research, planning, and earth science using spatial data and remote sensing to understand how communities and landscapes change. I recently completed a B.A. in Geography from the University of Colorado Boulder and a graduate certificate in Earth Data Analytics from CU's Earth Lab.</p>
 
 <p>My recent work ranges from custom Python tools to web maps and StoryMaps that make spatial analysis easy for anyone to explore. With a small team, I built an algorithm and web tool that identifies land swaps to consolidate ownership around the Pawnee National Grassland. The tool identified nearly 700 swap proposals that consolidate land ownership while benefitting both private and government stakeholders. The top ranked proposals add nearly 14,500 acres to a single contiguous patch. The tool is currently being considered for state-wide use in Colorado with the U.S. Forest Service in partnership with the non-profit Grasslands Unlimited.</p>
 
