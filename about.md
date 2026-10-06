@@ -33,12 +33,28 @@ permalink: /about/
   margin-bottom: 0;
 }
 
+.about-photo-wrap {
+  flex: 1 1 240px;
+  display: flex;
+  justify-content: center;
+  padding-top: 0.75in;
+  margin-right: -20px;
+}
+
 .about-photo {
-  flex: 0 1 220px;
-  max-width: 220px;
+  width: 220px;
+  max-width: 100%;
   height: auto;
   border-radius: 8px;
   box-shadow: 0 4px 12px rgba(0,0,0,0.30);
+}
+
+@media (max-width: 1200px) {
+  .about-photo-wrap {
+    justify-content: flex-start;
+    padding-top: 0;
+    margin-right: 0;
+  }
 }
 </style>
 
@@ -52,5 +68,5 @@ permalink: /about/
 
 <p>I'm most interested in two areas: GIS for city and regional planning, and remote sensing for monitoring environmental change. Outside of GIS and geography, I'm a classically trained pianist and teach piano part-time in Boulder.</p>
 </div>
-<img class="about-photo" src="/img/about_photo.jpg" alt="Mountain lake in Rocky Mountain National Park">
+<div class="about-photo-wrap"><img class="about-photo" src="/img/about_photo.jpg" alt="Mountain lake in Rocky Mountain National Park"></div>
 </div>
