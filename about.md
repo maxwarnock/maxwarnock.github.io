@@ -60,13 +60,15 @@ permalink: /about/
 
 <div class="about-row">
 <div class="about-card">
-<p>I'm an early-career GIS analyst interested in environmental research, planning, and earth science using spatial data and remote sensing to understand how communities and landscapes change. I recently completed a B.A. in Geography from the University of Colorado Boulder and a graduate certificate in Earth Data Analytics from CU's Earth Lab.</p>
+<p>I'm an early-career GIS analyst interested in environmental research using GIS and Earth data to answer questions for topics ranging from urban planning and land management, to ecosystem health, soils, hydrology, species migration, and more. I recently completed a B.A. in Geography from the University of Colorado Boulder and a graduate certificate in Earth Data Analytics from CU's Earth Lab.</p>
 
-<p>My recent work ranges from custom Python tools to web maps and StoryMaps that make spatial analysis easy for anyone to explore. With a small team, I built an algorithm and web tool that identifies land swaps to consolidate ownership around the Pawnee National Grassland. The tool identified nearly 700 swap proposals that consolidate land ownership while benefitting both private and government stakeholders. The top ranked proposals add nearly 14,500 acres to a single contiguous patch. The tool is currently being considered for state-wide use in Colorado with the U.S. Forest Service in partnership with the non-profit Grasslands Unlimited.</p>
+<p>My recent work ranges from custom Python tools to web maps and StoryMaps that make spatial analysis easy for anyone to explore. With a small team, I built an algorithm and web tool that identifies land swaps to consolidate ownership around the Pawnee National Grassland. The tool identified nearly 700 swap proposals that consolidate land ownership while benefitting both private and government stakeholders. The top ranked proposals add nearly 14,500 acres to a single contiguous patch. The tool is currently being considered for state-wide use in Colorado with the U.S. Forest Service in partnership with the non-profit Grasslands Unlimited. 
+</p>
 
-<p>I also built an automated tool for mapping the wildland-urban interface that matched the widely used SILVIS Lab WUI maps with up to 97% accuracy. On the remote sensing side, I've measured glacial retreat in the Swiss Alps and Grand Teton National Park using decades of satellite imagery. As a volunteer GIS Technician for the Salvation Army, I built ArcGIS Online maps that help people find services near them, and I automated the team's mapping workflows with ArcPy.</p>
+<p>I also built an automated tool for mapping the Wildland-Urban Interface (WUI) that matched the widely used SILVIS Lab WUI maps with up to 97% accuracy. The tool streamlines data download and processing, allowing users to create WUI maps for the past 25 years. On the remote sensing side, I've measured glacial retreat in the Swiss Alps and Grand Teton National Park using decades of satellite imagery. As a volunteer GIS Technician for the Salvation Army, I built ArcGIS Online maps that help people find services near them, and I automated the team's mapping workflows with ArcPy.</p>
 
-<p>I'm most interested in two areas: GIS for city and regional planning, and remote sensing for monitoring environmental change. Outside of GIS and geography, I'm a classically trained pianist and teach piano part-time in Boulder.</p>
+<p>Outside of GIS and geography, I'm a classically trained pianist and teach piano part-time in Boulder. In my free time I enjoy enjoy hiking and spending time in nature with friends and family. 
+</p>
 </div>
 <div class="about-photo-wrap"><img class="about-photo" src="/img/about_photo.jpg" alt="Mountain lake in Rocky Mountain National Park"></div>
 </div>
