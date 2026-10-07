@@ -71,7 +71,7 @@ permalink: /about/
 <img class="c-photo" src="/img/at_glacier.jpg" alt="Max at a glacier-fed lake in Rocky Mountain National Park">
 </div>
 <div class="c-card">
-<p>My recent work ranges from custom Python tools to web maps and StoryMaps that make spatial analysis easy for anyone to explore. With a small team, I built an algorithm and web tool that identifies land swaps to consolidate ownership around the Pawnee National Grassland. The tool identified nearly 700 swap proposals that consolidate land ownership while benefitting both private and government stakeholders. The top ranked proposals add nearly 14,500 acres to a single contiguous patch. The tool is currently being considered for state-wide use in Colorado with the U.S. Forest Service in partnership with the non-profit Grasslands Unlimited.</p>
+<p>My recent work ranges from custom Python tools to web maps and StoryMaps that make spatial analysis easy for anyone to explore. With a small team, I built an algorithm and web tool that identifies land swaps to consolidate ownership around the Pawnee National Grassland. The tool identified nearly 700 swap proposals that consolidate land ownership while benefiting both private and government stakeholders. The top-ranked proposal alone would add nearly 14,500 acres to a single contiguous patch. The tool is currently being considered for statewide use in Colorado with the U.S. Forest Service, in partnership with the nonprofit Grasslands Unlimited.</p>
 <img class="c-photo" src="/img/pawnee_cover.png" alt="Pawnee National Grassland land swap map">
 </div>
 <div class="c-card">
