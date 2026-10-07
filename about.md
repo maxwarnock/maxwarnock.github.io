@@ -70,5 +70,5 @@ permalink: /about/
 <p>Outside of GIS and geography, I'm a classically trained pianist and teach piano part-time in Boulder. In my free time I enjoy enjoy hiking and spending time in nature with friends and family. 
 </p>
 </div>
-<div class="about-photo-wrap"><img class="about-photo" src="/img/about_photo.jpg" alt="Mountain lake in Rocky Mountain National Park"></div>
+<div class="about-photo-wrap"><img class="about-photo" src="/img/at_glacier.png" alt="Mountain lake in Rocky Mountain National Park"></div>
 </div>
