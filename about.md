@@ -66,7 +66,7 @@ permalink: /about/
 
 <div class="collage">
 <div class="c-card">
-<p>I'm an early-career GIS analyst interested in environmental research using GIS and Earth data to answer questions for topics ranging from urban planning and land management, to ecosystem health, soils, hydrology, species migration, and more. I recently completed a B.A. in Geography from the University of Colorado Boulder and a graduate certificate in Earth Data Analytics from CU's Earth Lab.
+<p>I'm a geographer and GIS analyst interested in environmental research using GIS and Earth data to answer questions for topics ranging from urban planning and land management, to ecosystem health, soils, hydrology, species migration, and more. I recently completed a B.A. in Geography from the University of Colorado Boulder and a graduate certificate in Earth Data Analytics from CU's Earth Lab.
 </p>
 <img class="c-photo" src="/img/at_glacier.jpg" alt="Max at a glacier-fed lake in Rocky Mountain National Park">
 </div>
