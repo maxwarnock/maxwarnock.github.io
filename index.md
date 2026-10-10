@@ -1,6 +1,7 @@
 ---
 layout: default
 show_profile: true
+rem_background: true
 ---
 <style>
 .idx { max-width: 800px; margin: 20px 0 40px 56px; font-family: "Segoe UI", system-ui, -apple-system, Roboto, "Helvetica Neue", sans-serif; }

@@ -2,6 +2,7 @@
 layout: default
 title: About Me
 show_profile: true
+rem_background: true
 permalink: /about/
 ---
 <style>
