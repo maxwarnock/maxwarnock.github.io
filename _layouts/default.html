@@ -2,7 +2,23 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>{{ page.title }}</title>
+  {%- assign seo_title = page.title | default: "Max Warnock | GIS and Earth Data Portfolio" -%}
+  {%- assign seo_desc = page.description | default: "I'm interested in environmental research using GIS and Earth data to answer questions for topics ranging from urban planning and land management, to ecosystem health, soils, hydrology, species migration, and more." -%}
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ seo_title | escape }}</title>
+  <meta name="description" content="{{ seo_desc | escape }}">
+  {%- if page.noindex %}
+  <meta name="robots" content="noindex, follow">
+  {%- endif %}
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Max Warnock | GIS and Earth Data Portfolio">
+  <meta property="og:title" content="{{ seo_title | escape }}">
+  <meta property="og:description" content="{{ seo_desc | escape }}">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="{{ seo_title | escape }}">
+  <meta name="twitter:description" content="{{ seo_desc | escape }}">
   <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
   <script type="module" src="https://js.arcgis.com/4.34/embeddable-components/"></script>
   <style>

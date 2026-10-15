@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Max Warnock | GIS and Earth Data Portfolio
+description: "I'm interested in environmental research using GIS and Earth data to answer questions for topics ranging from urban planning and land management, to ecosystem health, soils, hydrology, species migration, and more."
 show_profile: true
 rem_background: true
 ---

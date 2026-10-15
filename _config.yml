@@ -2,7 +2,10 @@ title: <a href="https://maxwarnock.github.io/">Max Warnock</a><br>
 theme: jekyll-theme-minimal
 logo: /img/headshot.png
 description: |
-  <a href="mailto:mawa9468@colorado.edu">mawa9468@colorado.edu</a><br>
+  <a href="mailto:warnock.max@gmail.com">warnock.max@gmail.com</a><br>
   <a href="https://github.com/maxwarnock/">Github</a><br>  
   <a href="https://www.linkedin.com/in/maxwell-warnock/">LinkedIn</a><br>
-  
+
+url: https://maxwarnock.github.io
+plugins:
+  - jekyll-sitemap

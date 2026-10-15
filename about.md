@@ -1,9 +1,12 @@
 ---
 layout: default
-title: About Me
+title: About Max Warnock | GIS and Earth Data Portfolio
+description: "Max Warnock is a geographer and GIS analyst with a B.A. in Geography from CU Boulder and a graduate certificate in Earth Data Analytics from CU's Earth Lab."
 show_profile: true
 rem_background: true
 permalink: /about/
+noindex: true
+sitemap: false
 ---
 <style>
 .collage {
