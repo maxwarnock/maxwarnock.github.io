@@ -42,7 +42,7 @@ sitemap: false
   right: -110px;
   width: 252px;
   height: auto;
-  border-radius: 4px;
+  border-radius: 6px;
   box-shadow: 0 6px 18px rgba(0, 0, 0, 0.45);
   transform: translateY(-50%);
 }
@@ -73,7 +73,7 @@ sitemap: false
 </div>
 <div class="c-card">
 <p>My recent work ranges from custom Python tools to web maps and StoryMaps that make spatial analysis easy for anyone to explore. With a small team, I built an algorithm and web tool that identifies land swaps to consolidate ownership around the Pawnee National Grassland. The tool identified nearly 700 swap proposals that consolidate land ownership while benefiting both private and government stakeholders. The top-ranked proposal alone would add nearly 14,500 acres to a single contiguous patch. The tool is currently being considered for statewide use in Colorado with the U.S. Forest Service, in partnership with the nonprofit Grasslands Unlimited.</p>
-<img class="c-photo" src="/img/pawnee_cover.png" alt="Pawnee National Grassland land swap map">
+<img class="c-photo" src="/img/pawnee_cover_about.png" alt="Pawnee National Grassland land swap map">
 </div>
 <div class="c-card">
 <p>I also built an automated tool for mapping the Wildland-Urban Interface (WUI) that matched the widely used SILVIS Lab WUI maps with up to 97% accuracy. The tool streamlines data download and processing, allowing users to create WUI maps for the past 25 years. On the remote sensing side, I've measured glacial retreat in the Swiss Alps and Grand Teton National Park using decades of satellite imagery. As a volunteer GIS Technician for the Salvation Army, I built ArcGIS Online maps that help people find services near them, and I automated the team's mapping workflows with ArcPy.</p>
