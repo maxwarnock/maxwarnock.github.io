@@ -120,6 +120,12 @@
     .bg-credit a:hover {
       color: #ffffff;
     }
+    /* Hide the credit on phones and tablets (touch-only devices) and narrow windows */
+    @media (hover: none) and (pointer: coarse), (max-width: 768px) {
+      .bg-credit {
+        display: none;
+      }
+    }
     .main-content {
       padding: 20px;
       margin-top: 80px;
