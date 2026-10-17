@@ -40,17 +40,14 @@ sitemap: false
   position: absolute;
   top: 50%;
   right: -110px;
-  width: 240px;
+  width: 252px;
   height: auto;
-  border: 6px solid #fff;
   border-radius: 4px;
   box-shadow: 0 6px 18px rgba(0, 0, 0, 0.45);
-  transform: translateY(-50%) rotate(var(--rot, 3deg));
+  transform: translateY(-50%);
 }
 
-.c-card:nth-child(2) .c-photo { --rot: -3deg; }
-.c-card:nth-child(3) .c-photo { --rot: 2deg; width: 200px; }
-.c-card:nth-child(4) .c-photo { --rot: -2deg; }
+.c-card:nth-child(3) .c-photo { width: 212px; }
 
 @media (max-width: 1100px) {
   .c-card { padding: 24px; min-height: 0; }
@@ -58,7 +55,7 @@ sitemap: false
     position: static;
     display: block;
     margin: 16px auto 0;
-    transform: rotate(var(--rot, 2deg));
+    transform: none;
     right: auto;
   }
 }
