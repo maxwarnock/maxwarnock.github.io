@@ -76,7 +76,7 @@ sitemap: false
 <img class="c-photo" src="/img/pawnee_cover_about.png" alt="Pawnee National Grassland land swap map">
 </div>
 <div class="c-card">
-<p>I also built an automated tool for mapping the Wildland-Urban Interface (WUI) that matched the widely used SILVIS Lab WUI maps with up to 97% accuracy. The tool streamlines data download and processing, allowing users to create WUI maps for the past 25 years. On the remote sensing side, I've measured glacial retreat in the Swiss Alps and Grand Teton National Park using decades of satellite imagery. As a volunteer GIS Technician for the Salvation Army, I built ArcGIS Online maps that help people find services near them, and I automated the team's mapping workflows with ArcPy.</p>
+<p>I also built an automated tool for mapping the Wildland-Urban Interface (WUI). The tool streamlines data download and processing, allowing users to create WUI maps for the past 25 years. On the remote sensing side, I've measured glacial retreat in the Swiss Alps and Grand Teton National Park using decades of satellite imagery. As a volunteer GIS Technician for the Salvation Army, I built ArcGIS Online maps that help people find services near them, and I automated the team's mapping workflows with ArcPy.</p>
 <img class="c-photo" src="/img/wui_cover.png" alt="Wildland-urban interface map of Colorado">
 </div>
 <div class="c-card">
