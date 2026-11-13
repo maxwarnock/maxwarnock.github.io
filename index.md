@@ -31,7 +31,7 @@ rem_background: true
 
 <a class="tile" href="https://github.com/maxwarnock/WUI_Mapping_Tool" target="_blank" rel="noopener noreferrer"><div class="im"><img src="/img/wui_tool_cover.png" alt=""></div><div class="t">Python Tool for Mapping Wildland-Urban Interface</div></a>
 
-<a class="tile" href="https://maxwarnock.github.io/projects/habitat_suitability.html" target="_blank" rel="noopener noreferrer"><div class="im"><img src="/img/hab_suit_cover.png" alt=""></div><div class="t">Habitat Suitability for the Great Basin Bristlecone Pine under Climate Change</div></a>
+<a class="tile" href="https://maxwarnock.github.io/projects/habitat_suitability_blog_post.html" target="_blank" rel="noopener noreferrer"><div class="im"><img src="/img/hab_suit_cover.png" alt=""></div><div class="t">Habitat Suitability for the Great Basin Bristlecone Pine under Climate Change</div></a>
 
 <a class="tile" href="https://maxwarnock.github.io/projects/clustering-portfolio-post.html" target="_blank" rel="noopener noreferrer"><div class="im"><img src="/img/clustering_cover.png" alt=""></div><div class="t">Land Cover Classification of the Cache la Poudre River Watershed in Northern Colorado</div></a>
 
