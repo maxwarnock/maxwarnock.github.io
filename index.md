@@ -39,7 +39,7 @@ rem_background: true
 
 <a class="tile" href="https://maxwarnock.github.io/projects/red-start-migration" target="_blank" rel="noopener noreferrer"><div class="im"><img src="/img/redstart_cover.png" alt=""></div><div class="t">Analysis of the Migration Range of the American Redstart (Setophaga ruticilla) from 2004 to 2024</div></a>
 
-<a class="tile" href="https://maxwarnock.github.io/projects/rmnp_ndvi" target="_blank" rel="noopener noreferrer"><div class="im"><img src="/img/rmnp_ndvi_cover.png" alt=""></div><div class="t">Analysis of Vegetation Health in Rocky Mountain National Park Using NDVI Data from 2000 to 2024</div></a>
+<a class="tile" href="https://maxwarnock.github.io/projects/ndvi_blog_post.html" target="_blank" rel="noopener noreferrer"><div class="im"><img src="/img/rmnp_ndvi_cover.png" alt=""></div><div class="t">Analysis of Vegetation Health in Rocky Mountain National Park Using NDVI Data from 2000 to 2024</div></a>
 
 <a class="tile" href="https://maxwarnock.github.io/projects/oriole_migration" target="_blank" rel="noopener noreferrer"><div class="im"><img src="/img/oriole_cover.png" alt=""></div><div class="t">Analysis of Annual Migration Patterns of the Baltimore Oriole (Icterus galbula)</div></a>
 
